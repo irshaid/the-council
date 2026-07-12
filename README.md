@@ -1,5 +1,9 @@
 # The Council
 
+<p align="center">
+  <img src="assets/hall.svg" alt="The Council — all 50 advisors" width="100%">
+</p>
+
 > Bring a decision. **50 of the sharpest minds in business and technology** weigh in — then the room tells you what to actually do.
 
 The Council turns Claude into a board of advisors. Not a chatbot in a famous-person costume — **50 founders, operators, and investors distilled into how they actually reason**, plus an orchestrator that reads your decision, scores who is genuinely qualified to answer it, replies in their voices, and lands on **one recommendation you can act on**.
@@ -48,102 +52,102 @@ You ask:
 *Grouped by specialty; specialties ordered by leverage/impact — the highest-value, most foundational fields first.*
 
 ### 1. Strategy, decisions & capital allocation
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/jeff-bezos.svg" width="120" alt="Jeff Bezos"> | [Jeff&nbsp;Bezos](lenses/jeff-bezos.md) | Founder&nbsp;&&nbsp;Exec&nbsp;Chairman | Amazon&nbsp;·&nbsp;Blue&nbsp;Origin | Deciding under uncertainty · long-term bets · customer obsession · scaling |
-| <img src="assets/portraits/warren-buffett.svg" width="120" alt="Warren Buffett"> | [Warren&nbsp;Buffett](lenses/warren-buffett.md) | Chairman&nbsp;(former&nbsp;CEO) | Berkshire&nbsp;Hathaway | Value investing · capital allocation · temperament · insurance float |
-| <img src="assets/portraits/charlie-munger.svg" width="120" alt="Charlie Munger"> | [Charlie&nbsp;Munger](lenses/charlie-munger.md) | Late&nbsp;Vice&nbsp;Chairman | Berkshire&nbsp;Hathaway | Value investing · mental models · inversion · avoiding stupidity |
-| <img src="assets/portraits/ray-dalio.svg" width="120" alt="Ray Dalio"> | [Ray&nbsp;Dalio](lenses/ray-dalio.md) | Founder | Bridgewater&nbsp;Associates | Macro & debt cycles · systematic principles · radical transparency |
-| <img src="assets/portraits/peter-thiel.svg" width="120" alt="Peter Thiel"> | [Peter&nbsp;Thiel](lenses/peter-thiel.md) | Co-founder | PayPal&nbsp;·&nbsp;Palantir&nbsp;·&nbsp;Founders&nbsp;Fund | Contrarian strategy · monopoly vs. competition · positioning |
-| <img src="assets/portraits/larry-fink.svg" width="120" alt="Larry Fink"> | [Larry&nbsp;Fink](lenses/larry-fink.md) | Co-founder&nbsp;&&nbsp;CEO | BlackRock | Risk management · capital allocation · macro/structural shifts |
-| <img src="assets/portraits/jamie-dimon.svg" width="120" alt="Jamie Dimon"> | [Jamie&nbsp;Dimon](lenses/jamie-dimon.md) | Chairman&nbsp;&&nbsp;CEO | JPMorgan&nbsp;Chase | Banking · systemic risk · crisis navigation · fortress balance sheet |
-| <img src="assets/portraits/lou-gerstner.svg" width="120" alt="Lou Gerstner"> | [Lou&nbsp;Gerstner](lenses/lou-gerstner.md) | Former&nbsp;Chairman&nbsp;&&nbsp;CEO | IBM | Legacy-enterprise turnarounds · execution before vision · culture change |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Jeff&nbsp;Bezos](lenses/jeff-bezos.md) | Founder&nbsp;&&nbsp;Exec&nbsp;Chairman | Amazon&nbsp;·&nbsp;Blue&nbsp;Origin | Deciding under uncertainty · long-term bets · customer obsession · scaling |
+| [Warren&nbsp;Buffett](lenses/warren-buffett.md) | Chairman&nbsp;(former&nbsp;CEO) | Berkshire&nbsp;Hathaway | Value investing · capital allocation · temperament · insurance float |
+| [Charlie&nbsp;Munger](lenses/charlie-munger.md) | Late&nbsp;Vice&nbsp;Chairman | Berkshire&nbsp;Hathaway | Value investing · mental models · inversion · avoiding stupidity |
+| [Ray&nbsp;Dalio](lenses/ray-dalio.md) | Founder | Bridgewater&nbsp;Associates | Macro & debt cycles · systematic principles · radical transparency |
+| [Peter&nbsp;Thiel](lenses/peter-thiel.md) | Co-founder | PayPal&nbsp;·&nbsp;Palantir&nbsp;·&nbsp;Founders&nbsp;Fund | Contrarian strategy · monopoly vs. competition · positioning |
+| [Larry&nbsp;Fink](lenses/larry-fink.md) | Co-founder&nbsp;&&nbsp;CEO | BlackRock | Risk management · capital allocation · macro/structural shifts |
+| [Jamie&nbsp;Dimon](lenses/jamie-dimon.md) | Chairman&nbsp;&&nbsp;CEO | JPMorgan&nbsp;Chase | Banking · systemic risk · crisis navigation · fortress balance sheet |
+| [Lou&nbsp;Gerstner](lenses/lou-gerstner.md) | Former&nbsp;Chairman&nbsp;&&nbsp;CEO | IBM | Legacy-enterprise turnarounds · execution before vision · culture change |
 
 ### 2. Founders & the early game
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/naval-ravikant.svg" width="120" alt="Naval Ravikant"> | [Naval&nbsp;Ravikant](lenses/naval-ravikant.md) | Founder | AngelList | Leverage · wealth vs. status · the solo builder · inner game |
-| <img src="assets/portraits/paul-graham.svg" width="120" alt="Paul Graham"> | [Paul&nbsp;Graham](lenses/paul-graham.md) | Co-founder | Y&nbsp;Combinator | Early-stage startups · founder advice · growth · doing what doesn't scale |
-| <img src="assets/portraits/reid-hoffman.svg" width="120" alt="Reid Hoffman"> | [Reid&nbsp;Hoffman](lenses/reid-hoffman.md) | Co-founder&nbsp;/&nbsp;Partner | LinkedIn&nbsp;·&nbsp;Greylock | Blitzscaling · network effects · career strategy (ABZ) |
-| <img src="assets/portraits/sara-blakely.svg" width="120" alt="Sara Blakely"> | [Sara&nbsp;Blakely](lenses/sara-blakely.md) | Founder | Spanx | Bootstrapping · consumer products · sales grit · keeping ownership |
-| <img src="assets/portraits/melanie-perkins.svg" width="120" alt="Melanie Perkins"> | [Melanie&nbsp;Perkins](lenses/melanie-perkins.md) | Co-founder&nbsp;&&nbsp;CEO | Canva | Product-led growth · freemium design · radical simplicity |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Naval&nbsp;Ravikant](lenses/naval-ravikant.md) | Founder | AngelList | Leverage · wealth vs. status · the solo builder · inner game |
+| [Paul&nbsp;Graham](lenses/paul-graham.md) | Co-founder | Y&nbsp;Combinator | Early-stage startups · founder advice · growth · doing what doesn't scale |
+| [Reid&nbsp;Hoffman](lenses/reid-hoffman.md) | Co-founder&nbsp;/&nbsp;Partner | LinkedIn&nbsp;·&nbsp;Greylock | Blitzscaling · network effects · career strategy (ABZ) |
+| [Sara&nbsp;Blakely](lenses/sara-blakely.md) | Founder | Spanx | Bootstrapping · consumer products · sales grit · keeping ownership |
+| [Melanie&nbsp;Perkins](lenses/melanie-perkins.md) | Co-founder&nbsp;&&nbsp;CEO | Canva | Product-led growth · freemium design · radical simplicity |
 
 ### 3. AI & deep tech
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/demis-hassabis.svg" width="120" alt="Demis Hassabis"> | [Demis&nbsp;Hassabis](lenses/demis-hassabis.md) | Co-founder&nbsp;&&nbsp;CEO | Google&nbsp;DeepMind | Deep-tech R&D · AI · problem selection · long-horizon research |
-| <img src="assets/portraits/dario-amodei.svg" width="120" alt="Dario Amodei"> | [Dario&nbsp;Amodei](lenses/dario-amodei.md) | Co-founder&nbsp;&&nbsp;CEO | Anthropic | Frontier AI · safety/trust · building on a technical thesis |
-| <img src="assets/portraits/sam-altman.svg" width="120" alt="Sam Altman"> | [Sam&nbsp;Altman](lenses/sam-altman.md) | Co-founder&nbsp;&&nbsp;CEO | OpenAI | Network · fundraising/capital · GTM · resourcefulness |
-| <img src="assets/portraits/elon-musk.svg" width="120" alt="Elon Musk"> | [Elon&nbsp;Musk](lenses/elon-musk.md) | CEO&nbsp;/&nbsp;Founder | Tesla&nbsp;·&nbsp;SpaceX&nbsp;·&nbsp;xAI | First principles · engineering & cost · execution velocity |
-| <img src="assets/portraits/andrew-ng.svg" width="120" alt="Andrew Ng"> | [Andrew&nbsp;Ng](lenses/andrew-ng.md) | Founder | DeepLearning.AI&nbsp;·&nbsp;Landing&nbsp;AI | Applied/data-centric AI · enterprise deployment · AI education |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Demis&nbsp;Hassabis](lenses/demis-hassabis.md) | Co-founder&nbsp;&&nbsp;CEO | Google&nbsp;DeepMind | Deep-tech R&D · AI · problem selection · long-horizon research |
+| [Dario&nbsp;Amodei](lenses/dario-amodei.md) | Co-founder&nbsp;&&nbsp;CEO | Anthropic | Frontier AI · safety/trust · building on a technical thesis |
+| [Sam&nbsp;Altman](lenses/sam-altman.md) | Co-founder&nbsp;&&nbsp;CEO | OpenAI | Network · fundraising/capital · GTM · resourcefulness |
+| [Elon&nbsp;Musk](lenses/elon-musk.md) | CEO&nbsp;/&nbsp;Founder | Tesla&nbsp;·&nbsp;SpaceX&nbsp;·&nbsp;xAI | First principles · engineering & cost · execution velocity |
+| [Andrew&nbsp;Ng](lenses/andrew-ng.md) | Founder | DeepLearning.AI&nbsp;·&nbsp;Landing&nbsp;AI | Applied/data-centric AI · enterprise deployment · AI education |
 
 ### 4. Product, design & taste
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/steve-jobs.svg" width="120" alt="Steve Jobs"> | [Steve&nbsp;Jobs](lenses/steve-jobs.md) | Co-founder&nbsp;&&nbsp;former&nbsp;CEO | Apple | Focus · product taste · simplicity · shipping · saying no |
-| <img src="assets/portraits/brian-chesky.svg" width="120" alt="Brian Chesky"> | [Brian&nbsp;Chesky](lenses/brian-chesky.md) | Co-founder&nbsp;&&nbsp;CEO | Airbnb | Design-led product · marketplaces · founder mode · crisis leadership |
-| <img src="assets/portraits/tobi-lutke.svg" width="120" alt="Tobi Lütke"> | [Tobi&nbsp;Lütke](lenses/tobi-lutke.md) | Co-founder&nbsp;&&nbsp;CEO | Shopify | Commerce platforms · developer/craft culture · long-term management |
-| <img src="assets/portraits/stewart-butterfield.svg" width="120" alt="Stewart Butterfield"> | [Stewart&nbsp;Butterfield](lenses/stewart-butterfield.md) | Co-founder&nbsp;&&nbsp;former&nbsp;CEO | Slack&nbsp;·&nbsp;Flickr | Product-led growth · product craft · positioning · pivoting |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Steve&nbsp;Jobs](lenses/steve-jobs.md) | Co-founder&nbsp;&&nbsp;former&nbsp;CEO | Apple | Focus · product taste · simplicity · shipping · saying no |
+| [Brian&nbsp;Chesky](lenses/brian-chesky.md) | Co-founder&nbsp;&&nbsp;CEO | Airbnb | Design-led product · marketplaces · founder mode · crisis leadership |
+| [Tobi&nbsp;Lütke](lenses/tobi-lutke.md) | Co-founder&nbsp;&&nbsp;CEO | Shopify | Commerce platforms · developer/craft culture · long-term management |
+| [Stewart&nbsp;Butterfield](lenses/stewart-butterfield.md) | Co-founder&nbsp;&&nbsp;former&nbsp;CEO | Slack&nbsp;·&nbsp;Flickr | Product-led growth · product craft · positioning · pivoting |
 
 ### 5. Growth, marketing & brand
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/seth-godin.svg" width="120" alt="Seth Godin"> | [Seth&nbsp;Godin](lenses/seth-godin.md) | Author&nbsp;&&nbsp;marketer | Independent&nbsp;(ex-Yahoo) | Marketing · brand · audience-building · permission/remarkability |
-| <img src="assets/portraits/alex-hormozi.svg" width="120" alt="Alex Hormozi"> | [Alex&nbsp;Hormozi](lenses/alex-hormozi.md) | Founder | Acquisition.com | Offers · pricing · sales · lead generation · unit economics |
-| <img src="assets/portraits/phil-knight.svg" width="120" alt="Phil Knight"> | [Phil&nbsp;Knight](lenses/phil-knight.md) | Co-founder | Nike | Brand-building · marketing & storytelling · sports/consumer |
-| <img src="assets/portraits/andrew-chen.svg" width="120" alt="Andrew Chen"> | [Andrew&nbsp;Chen](lenses/andrew-chen.md) | General&nbsp;Partner | Andreessen&nbsp;Horowitz&nbsp;(a16z) | Growth · network effects · the cold-start problem · marketplaces |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Seth&nbsp;Godin](lenses/seth-godin.md) | Author&nbsp;&&nbsp;marketer | Independent&nbsp;(ex-Yahoo) | Marketing · brand · audience-building · permission/remarkability |
+| [Alex&nbsp;Hormozi](lenses/alex-hormozi.md) | Founder | Acquisition.com | Offers · pricing · sales · lead generation · unit economics |
+| [Phil&nbsp;Knight](lenses/phil-knight.md) | Co-founder | Nike | Brand-building · marketing & storytelling · sports/consumer |
+| [Andrew&nbsp;Chen](lenses/andrew-chen.md) | General&nbsp;Partner | Andreessen&nbsp;Horowitz&nbsp;(a16z) | Growth · network effects · the cold-start problem · marketplaces |
 
 ### 6. SaaS & platforms
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/marc-benioff.svg" width="120" alt="Marc Benioff"> | [Marc&nbsp;Benioff](lenses/marc-benioff.md) | Founder,&nbsp;Chair&nbsp;&&nbsp;CEO | Salesforce | SaaS category creation · subscription · ecosystem · marketing |
-| <img src="assets/portraits/satya-nadella.svg" width="120" alt="Satya Nadella"> | [Satya&nbsp;Nadella](lenses/satya-nadella.md) | Chairman&nbsp;&&nbsp;CEO | Microsoft | Cloud/SaaS transformation · culture change · platform partnerships |
-| <img src="assets/portraits/patrick-collison.svg" width="120" alt="Patrick Collison"> | [Patrick&nbsp;Collison](lenses/patrick-collison.md) | Co-founder&nbsp;&&nbsp;CEO | Stripe | Developer-first / API-as-product · infrastructure · craft |
-| <img src="assets/portraits/frank-slootman.svg" width="120" alt="Frank Slootman"> | [Frank&nbsp;Slootman](lenses/frank-slootman.md) | Former&nbsp;CEO | Snowflake&nbsp;·&nbsp;ServiceNow | Enterprise-SaaS scaling · hypergrowth · raising standards |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Marc&nbsp;Benioff](lenses/marc-benioff.md) | Founder,&nbsp;Chair&nbsp;&&nbsp;CEO | Salesforce | SaaS category creation · subscription · ecosystem · marketing |
+| [Satya&nbsp;Nadella](lenses/satya-nadella.md) | Chairman&nbsp;&&nbsp;CEO | Microsoft | Cloud/SaaS transformation · culture change · platform partnerships |
+| [Patrick&nbsp;Collison](lenses/patrick-collison.md) | Co-founder&nbsp;&&nbsp;CEO | Stripe | Developer-first / API-as-product · infrastructure · craft |
+| [Frank&nbsp;Slootman](lenses/frank-slootman.md) | Former&nbsp;CEO | Snowflake&nbsp;·&nbsp;ServiceNow | Enterprise-SaaS scaling · hypergrowth · raising standards |
 
 ### 7. Leadership, culture & turnarounds
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/ben-horowitz.svg" width="120" alt="Ben Horowitz"> | [Ben&nbsp;Horowitz](lenses/ben-horowitz.md) | Co-founder | Andreessen&nbsp;Horowitz&nbsp;(a16z) | Leadership · people & culture · scaling teams · hard CEO calls |
-| <img src="assets/portraits/indra-nooyi.svg" width="120" alt="Indra Nooyi"> | [Indra&nbsp;Nooyi](lenses/indra-nooyi.md) | Former&nbsp;Chairman&nbsp;&&nbsp;CEO | PepsiCo | CPG strategy · long-term portfolio transformation · stakeholder capitalism |
-| <img src="assets/portraits/howard-schultz.svg" width="120" alt="Howard Schultz"> | [Howard&nbsp;Schultz](lenses/howard-schultz.md) | Former&nbsp;Chairman&nbsp;&&nbsp;CEO | Starbucks | Consumer experience/hospitality · brand · scaling culture · turnarounds |
-| <img src="assets/portraits/mary-barra.svg" width="120" alt="Mary Barra"> | [Mary&nbsp;Barra](lenses/mary-barra.md) | Chair&nbsp;&&nbsp;CEO | General&nbsp;Motors | Manufacturing/industrials · legacy transformation · EV bet · crisis accountability |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Ben&nbsp;Horowitz](lenses/ben-horowitz.md) | Co-founder | Andreessen&nbsp;Horowitz&nbsp;(a16z) | Leadership · people & culture · scaling teams · hard CEO calls |
+| [Indra&nbsp;Nooyi](lenses/indra-nooyi.md) | Former&nbsp;Chairman&nbsp;&&nbsp;CEO | PepsiCo | CPG strategy · long-term portfolio transformation · stakeholder capitalism |
+| [Howard&nbsp;Schultz](lenses/howard-schultz.md) | Former&nbsp;Chairman&nbsp;&&nbsp;CEO | Starbucks | Consumer experience/hospitality · brand · scaling culture · turnarounds |
+| [Mary&nbsp;Barra](lenses/mary-barra.md) | Chair&nbsp;&&nbsp;CEO | General&nbsp;Motors | Manufacturing/industrials · legacy transformation · EV bet · crisis accountability |
 
 ### 8. Operating at scale (Big Tech)
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/bill-gates.svg" width="120" alt="Bill Gates"> | [Bill&nbsp;Gates](lenses/bill-gates.md) | Co-founder | Microsoft&nbsp;·&nbsp;Gates&nbsp;Foundation | Software platforms · competitive strategy · measurement-driven philanthropy |
-| <img src="assets/portraits/sundar-pichai.svg" width="120" alt="Sundar Pichai"> | [Sundar&nbsp;Pichai](lenses/sundar-pichai.md) | CEO | Google&nbsp;&&nbsp;Alphabet | Product management at scale · running a giant · steady AI pivot |
-| <img src="assets/portraits/tim-cook.svg" width="120" alt="Tim Cook"> | [Tim&nbsp;Cook](lenses/tim-cook.md) | CEO&nbsp;(→&nbsp;Exec&nbsp;Chairman,&nbsp;2026) | Apple | Operations · supply chain · scaling · margins · values-driven leadership |
-| <img src="assets/portraits/mark-zuckerberg.svg" width="120" alt="Mark Zuckerberg"> | [Mark&nbsp;Zuckerberg](lenses/mark-zuckerberg.md) | Co-founder&nbsp;&&nbsp;CEO | Meta | Scaling social · founder control · platform pivots · open-source strategy |
-| <img src="assets/portraits/larry-page.svg" width="120" alt="Larry Page"> | [Larry&nbsp;Page](lenses/larry-page.md) | Co-founder | Google&nbsp;/&nbsp;Alphabet | 10x/moonshot thinking · founder mindset · audacious tech bets |
-| <img src="assets/portraits/eric-schmidt.svg" width="120" alt="Eric Schmidt"> | [Eric&nbsp;Schmidt](lenses/eric-schmidt.md) | Former&nbsp;Chairman&nbsp;&&nbsp;CEO | Google | Scaling a startup into a giant · management · "smart creatives" |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Bill&nbsp;Gates](lenses/bill-gates.md) | Co-founder | Microsoft&nbsp;·&nbsp;Gates&nbsp;Foundation | Software platforms · competitive strategy · measurement-driven philanthropy |
+| [Sundar&nbsp;Pichai](lenses/sundar-pichai.md) | CEO | Google&nbsp;&&nbsp;Alphabet | Product management at scale · running a giant · steady AI pivot |
+| [Tim&nbsp;Cook](lenses/tim-cook.md) | CEO&nbsp;(→&nbsp;Exec&nbsp;Chairman,&nbsp;2026) | Apple | Operations · supply chain · scaling · margins · values-driven leadership |
+| [Mark&nbsp;Zuckerberg](lenses/mark-zuckerberg.md) | Co-founder&nbsp;&&nbsp;CEO | Meta | Scaling social · founder control · platform pivots · open-source strategy |
+| [Larry&nbsp;Page](lenses/larry-page.md) | Co-founder | Google&nbsp;/&nbsp;Alphabet | 10x/moonshot thinking · founder mindset · audacious tech bets |
+| [Eric&nbsp;Schmidt](lenses/eric-schmidt.md) | Former&nbsp;Chairman&nbsp;&&nbsp;CEO | Google | Scaling a startup into a giant · management · "smart creatives" |
 
 ### 9. Hardware & semiconductors
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/jensen-huang.svg" width="120" alt="Jensen Huang"> | [Jensen&nbsp;Huang](lenses/jensen-huang.md) | Co-founder&nbsp;&&nbsp;CEO | NVIDIA | Semiconductors · AI-compute platforms · long-horizon platform bets |
-| <img src="assets/portraits/lisa-su.svg" width="120" alt="Lisa Su"> | [Lisa&nbsp;Su](lenses/lisa-su.md) | Chair&nbsp;&&nbsp;CEO | AMD | Semiconductors · corporate turnaround · execution discipline |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Jensen&nbsp;Huang](lenses/jensen-huang.md) | Co-founder&nbsp;&&nbsp;CEO | NVIDIA | Semiconductors · AI-compute platforms · long-horizon platform bets |
+| [Lisa&nbsp;Su](lenses/lisa-su.md) | Chair&nbsp;&&nbsp;CEO | AMD | Semiconductors · corporate turnaround · execution discipline |
 
 ### 10. Media, attention & audience
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/bob-iger.svg" width="120" alt="Bob Iger"> | [Bob&nbsp;Iger](lenses/bob-iger.md) | Former&nbsp;CEO | The&nbsp;Walt&nbsp;Disney&nbsp;Company | Media/entertainment · transformative M&A · managing creatives |
-| <img src="assets/portraits/oprah-winfrey.svg" width="120" alt="Oprah Winfrey"> | [Oprah&nbsp;Winfrey](lenses/oprah-winfrey.md) | Founder&nbsp;&&nbsp;Chair | Harpo&nbsp;·&nbsp;OWN | Media · personal brand & trust · owning your IP · audience |
-| <img src="assets/portraits/zhang-yiming.svg" width="120" alt="Zhang Yiming"> | [Zhang&nbsp;Yiming](lenses/zhang-yiming.md) | Founder | ByteDance&nbsp;(TikTok) | Algorithm-as-moat · global consumer product · engineer-led culture |
-| <img src="assets/portraits/reed-hastings.svg" width="120" alt="Reed Hastings"> | [Reed&nbsp;Hastings](lenses/reed-hastings.md) | Co-founder&nbsp;&&nbsp;former&nbsp;Chairman | Netflix | Subscription/streaming · self-disruption · talent-density culture |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Bob&nbsp;Iger](lenses/bob-iger.md) | Former&nbsp;CEO | The&nbsp;Walt&nbsp;Disney&nbsp;Company | Media/entertainment · transformative M&A · managing creatives |
+| [Oprah&nbsp;Winfrey](lenses/oprah-winfrey.md) | Founder&nbsp;&&nbsp;Chair | Harpo&nbsp;·&nbsp;OWN | Media · personal brand & trust · owning your IP · audience |
+| [Zhang&nbsp;Yiming](lenses/zhang-yiming.md) | Founder | ByteDance&nbsp;(TikTok) | Algorithm-as-moat · global consumer product · engineer-led culture |
+| [Reed&nbsp;Hastings](lenses/reed-hastings.md) | Co-founder&nbsp;&&nbsp;former&nbsp;Chairman | Netflix | Subscription/streaming · self-disruption · talent-density culture |
 
 ### 11. Retail, consumer & luxury
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/sam-walton.svg" width="120" alt="Sam Walton"> | [Sam&nbsp;Walton](lenses/sam-walton.md) | Founder | Walmart | Retail · cost discipline · distribution/logistics · frontline culture |
-| <img src="assets/portraits/bernard-arnault.svg" width="120" alt="Bernard Arnault"> | [Bernard&nbsp;Arnault](lenses/bernard-arnault.md) | Chairman&nbsp;&&nbsp;CEO | LVMH | Luxury & brand-building · pricing power/scarcity · empire building |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Sam&nbsp;Walton](lenses/sam-walton.md) | Founder | Walmart | Retail · cost discipline · distribution/logistics · frontline culture |
+| [Bernard&nbsp;Arnault](lenses/bernard-arnault.md) | Chairman&nbsp;&&nbsp;CEO | LVMH | Luxury & brand-building · pricing power/scarcity · empire building |
 
 ### 12. Independence & emerging markets
-| Portrait | Advisor | Role | Where | Expert in |
-|:--:|--|--|--|--|
-| <img src="assets/portraits/jack-ma.svg" width="120" alt="Jack Ma"> | [Jack&nbsp;Ma](lenses/jack-ma.md) | Co-founder | Alibaba&nbsp;·&nbsp;Ant&nbsp;Group | E-commerce · fintech · China/emerging markets · founder culture |
-| <img src="assets/portraits/pavel-durov.svg" width="120" alt="Pavel Durov"> | [Pavel&nbsp;Durov](lenses/pavel-durov.md) | Founder&nbsp;&&nbsp;CEO | Telegram | Lean high-leverage teams · privacy/encryption · independence over capital |
+| Advisor | Role | Where | Expert in |
+|--|--|--|--|
+| [Jack&nbsp;Ma](lenses/jack-ma.md) | Co-founder | Alibaba&nbsp;·&nbsp;Ant&nbsp;Group | E-commerce · fintech · China/emerging markets · founder culture |
+| [Pavel&nbsp;Durov](lenses/pavel-durov.md) | Founder&nbsp;&&nbsp;CEO | Telegram | Lean high-leverage teams · privacy/encryption · independence over capital |
 
 ---
 
@@ -198,7 +202,7 @@ The Council is an independent, educational project. It is **not affiliated with,
 
 ## Credits
 
-Advisor portraits are generated as inline pixel-art SVG by the bundled [`council-pixel-portraits`](.claude/skills/council-pixel-portraits/) skill.
+The group portrait and the individual advisor avatars are generated as pixel-art SVG by the bundled [`council-pixel-portraits`](.claude/skills/council-pixel-portraits/) skill.
 
 ## License
 
