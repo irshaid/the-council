@@ -1,12 +1,12 @@
 # The Council
 
-> Bring a decision. Ten of the sharpest minds in business argue it out — then tell you what to do.
+> Bring a decision. Thirteen of the sharpest minds in business argue it out — then tell you what to do.
 
-The Council is a set of **thinking lenses** — ten founders and operators distilled into how they actually reason and decide — plus an **orchestrator** that routes your question to the right ones. You don't get a bland, averaged answer. You get a scored shortlist of who's best suited to weigh in, each answering in their own voice, and an honest map of where they disagree.
+The Council is a set of **thinking lenses** — thirteen founders and operators distilled into how they actually reason and decide — plus an **orchestrator** that routes your question to the right ones. You don't get a bland, averaged answer. You get a scored shortlist of who's best suited to weigh in, each answering in their own voice, and an honest map of where they disagree.
 
 ---
 
-## The ten advisors
+## The advisors
 
 | Advisor | Role | Sharpest on |
 |---|---|---|
@@ -20,6 +20,9 @@ The Council is a set of **thinking lenses** — ten founders and operators disti
 | **[Elon Musk](lenses/elon-musk.md)** | CEO, Tesla & SpaceX | first principles · execution velocity |
 | **[Larry Fink](lenses/larry-fink.md)** | CEO, BlackRock | risk · capital allocation · institution building |
 | **[Peter Thiel](lenses/peter-thiel.md)** | Co-founder, PayPal & Palantir | contrarian strategy · monopoly |
+| **[Seth Godin](lenses/seth-godin.md)** | Author & marketer | marketing · brand · distribution · audience |
+| **[Ben Horowitz](lenses/ben-horowitz.md)** | Co-founder, a16z | leadership · people · culture · scaling teams |
+| **[Charlie Munger](lenses/charlie-munger.md)** | Vice Chairman, Berkshire Hathaway | value investing · capital allocation · mental models |
 
 ---
 
@@ -86,7 +89,7 @@ Open any file in [`lenses/`](lenses/) — or paste it into any AI assistant — 
 
 ## A note on honesty
 
-Each lens is an **approximation from the public record** — a tool to sharpen your thinking, not the real person, and not gospel. Every lens documents its own blind spots and failure modes, on purpose. The point isn't to obey a famous founder; it's to borrow ten different ways of seeing the same problem.
+Each lens is an **approximation from the public record** — a tool to sharpen your thinking, not the real person, and not gospel. Every lens documents its own blind spots and failure modes, on purpose. The point isn't to obey a famous founder; it's to borrow many different ways of seeing the same problem.
 
 ## Contributing
 
