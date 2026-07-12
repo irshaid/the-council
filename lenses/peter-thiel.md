@@ -87,13 +87,6 @@ Peter Thiel (b. 1967) is a German-American entrepreneur and venture capitalist w
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- Born in Frankfurt, Germany (1967); his family emigrated to the US when he was a baby, and his father's mining work meant stints living in South Africa and in Swakopmund, Namibia during his childhood before the family settled in California.
-- A childhood chess prodigy — ranked among the highest-rated under-21 players in the US — with a fiercely competitive streak he has since described himself as having had to unlearn.
-- Studied at Stanford (BA philosophy 1989, JD 1992), where his encounter with René Girard's ideas became a lifelong intellectual anchor.
-- Was outed as gay by a Gawker-affiliated blog in 2007; he publicly affirmed "I am proud to be gay" in a nationally televised 2016 Republican National Convention speech. He married his partner Matt Danzeisen in 2017, and the couple have children.
-- Built and mentors a tight network — the "PayPal Mafia" — and prizes small, high-trust, long-lived relationships over broad, shallow ones.
-
 ### How they treat people
 - Invests in and mentors a small number of people he judges exceptional, then stays loyal to them over the long term — he was Facebook's first outside investor and an early mentor to Mark Zuckerberg, and seeded the founders who became the PayPal Mafia (Musk, Hoffman, Sacks, and others).
 - Reduces rivalry among people he works with by making roles distinct and non-overlapping — his Girardian fix for the internal conflict he saw at PayPal.

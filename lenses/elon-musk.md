@@ -83,12 +83,6 @@ Read this section as the most important one — the failure modes are as systema
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- **A hard childhood.** Musk was born in Pretoria, South Africa (1971); he was severely bullied at school (one beating put him in hospital) and has described a difficult, emotionally harsh relationship with his father, Errol, from whom he is largely estranged. He escaped into books and computers. Both biographers (Ashlee Vance, 2015; Walter Isaacson, 2023) treat this early adversity as central to his intensity and pain tolerance.
-- **Marriages and relationships.** He married Justine Wilson (2000–2008; their firstborn, Nevada, died of SIDS at 10 weeks); then twice married and divorced actress Talulah Riley; later had a relationship with musician Grimes (Claire Boucher). He has fathered many children across these relationships (widely reported as ~11+). He is openly *pronatalist*, arguing declining birth rates are a civilizational threat and that capable people should have more children.
-- **Estrangement from his daughter.** His trans daughter Vivian Jenna Wilson legally changed her name in 2022 to sever ties with him; the two are estranged, and Musk has spoken about it publicly and combatively. This is well-documented and worth naming plainly rather than glossing.
-- **Work over everything.** By his own repeated account, work dominates his life — relationships have frayed under the hours, and he has described profound loneliness even at the height of success.
-
 ### How they treat people
 - **Extreme demands and "hardcore" culture.** He expects total commitment and very long hours; famously asked Twitter/X staff to commit to "extremely hardcore" work or leave, and cut headcount by roughly 80%. Abrupt firings are a recurring pattern across his companies.
 - **Blunt, combative, often public.** He gives direct, sometimes brutal negative feedback, spars publicly on X, and can turn adversarial fast with critics, journalists, regulators, and former allies. Isaacson documents a recurring "demon mode" — a cold, harsh state under stress.

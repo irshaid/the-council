@@ -79,11 +79,6 @@ Laurence "Larry" Fink (b. 1952) rose as one of Wall Street's first mortgage-back
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- Raised in a Jewish family in Van Nuys, in the San Fernando Valley of Los Angeles; his father ran a shoe store and his mother was an English professor. He went to UCLA (political science, then an MBA) rather than an Ivy League track.
-- Long marriage to his wife **Lori**, whom he has known since they were teenagers (a high-school / college-era relationship); three children, one of whom (Joshua) also went into finance. He is generally described as a devoted, low-drama family man rather than a tabloid figure.
-- The **1986 First Boston loss (~$100M)** is the formative personal wound as much as a professional one: he went from golden-boy heir apparent to effectively pushed out, and has described the humiliation of being blamed and sidelined. That fall — not the earlier success — is the story he tells about who he became.
-
 ### How they treat people
 - **Relationship-driven and loyalty-heavy.** He co-founded BlackRock with a tight group of partners (Rob Kapito among them) and kept much of that core team around him for decades. Kapito, in particular, has been his right hand for ~40 years — longevity of partnership is itself a signal of how he treats close colleagues.
 - **Owns being wrong.** The First Boston episode left him publicly humbled, and he tends to narrate it as a mistake he didn't fully understand at the time rather than bad luck — a comparatively candid stance for a Wall Street titan.

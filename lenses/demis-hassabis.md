@@ -83,12 +83,6 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- **Mixed heritage, North London.** Born in London in 1976 to a Greek-Cypriot father and a Chinese-Singaporean mother; grew up in North London as the eldest of three siblings (his sister is a musician). He has spoken warmly of a childhood immersed in games and books.
-- **Chess-prodigy childhood.** Chess was the organizing activity of his early life — he reached master standard at 13 and represented England as a junior. Games (board games, then video games) were both play and training.
-- **Family life, kept private.** He is married with children and lives in London, but is deliberately guarded about his family — specifics are rarely disclosed publicly, so treat any detail beyond "married with children" as uncertain.
-- **Long founding relationships.** His most consequential working bonds are with DeepMind co-founders **Shane Legg** (the AGI-timeline thinker he found intellectually aligned) and **Mustafa Suleyman** (the mission/impact-driven co-founder, later CEO of Microsoft AI) — relationships that predate and outlast the company's phases.
-
 ### How they treat people
 - Runs the organization as a **research collective** rather than a command hierarchy — closer to a scientific institution, where ideas are meant to win on merit.
 - Handles disagreement **scientifically**: frames a dispute as a question to be tested rather than a contest to be won, and is known for a measured, non-combative public manner.

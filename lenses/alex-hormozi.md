@@ -86,12 +86,6 @@ Hormozi built his wealth by turning brick-and-mortar gyms around in person, then
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- **Leila is the center.** His wife and business partner Leila Hormozi is co-founder and CEO of Acquisition.com; he frames her as the operator and integrator to his marketing/visionary role, and describes their marriage and company as inseparable — they built both from near-zero together. He has said publicly he married up and that partnering with her was the highest-leverage decision of his life.
-- **Starting over broke.** After netting ~$80K on his gyms and losing nearly all of it in a failed partnership, he was back to roughly zero at 26 — a period he speaks about openly as formative rather than shameful.
-- **Iranian-American background.** His father is an Iranian immigrant physician; Hormozi has discussed the tension of a conventional-professional path expected of him (he worked briefly as a management consultant, the "respectable" job) versus quitting to sell gym memberships — a break that strained the relationship before later reconciliation. *(Details as he's told them; treat specifics as self-reported.)*
-- **No kids, by choice.** He and Leila have said publicly and repeatedly that they've chosen not to have children, framing it as a deliberate alignment of their life around building and their partnership rather than an accident.
-
 ### How they treat people
 - **Blunt, high-candor.** His default register is "hard truths" — he'd rather tell you the uncomfortable thing than protect your feelings, and treats candor as a form of respect.
 - **Standards over comfort in hiring/firing.** He talks about hiring slowly against clear standards and being willing to part with people who don't meet them; loyalty to the mission and to Leila and the team, but not at the expense of the standard.

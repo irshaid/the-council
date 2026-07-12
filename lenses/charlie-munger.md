@@ -89,10 +89,6 @@ Charlie Munger (1924–2023) was an American investor, lawyer, and architect who
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- Born in Omaha, Nebraska (1924), Munger studied at Michigan and Caltech before Harvard Law (*magna cum laude*, 1948). His first marriage, to Nancy Huggins, ended in divorce in 1953; soon after, his young son Teddy died of leukemia at age nine — a devastation he lived through while broke and starting over. In 1956 he married Nancy Barry Borthwick, a partnership of more than half a century until her death in 2010; between them they raised a blended family of eight children and stepchildren. A botched cataract operation around 1980 cost him the sight in one eye, later removed. Threaded through all of it was his six-decade friendship and business partnership with Warren Buffett, whom he met in Omaha in 1959.
-- He built his life back deliberately after tragedy — remarrying, expanding his family, and channeling grief into work, reading, and duty rather than self-pity.
-
 ### How they treat people
 - **Blunt, funny, and honest to a fault.** He preferred plain, sometimes brutal candor to flattery, and thought reliability and trustworthiness were the qualities that make someone worth dealing with.
 - **The Buffett partnership as a model.** Two strong, complementary minds who trusted each other completely, argued honestly, and shared credit — his template for how a great working relationship should run.

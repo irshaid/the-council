@@ -83,9 +83,6 @@ Naval Ravikant (b. 1974, New Delhi) is a technology entrepreneur and angel inves
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- **You become the five people around you — and the environment you keep.** He argues your reference-group and closest relationships set your baseline happiness, standards, and thinking, so choosing who you spend time with is one of life's highest-leverage decisions. He is deliberately private about his family, but is close to his brother Kamal Ravikant (author of *Love Yourself Like Your Life Depends On It*) and speaks about presence with his children over provision as the real measure of a parent. On friendship he applies the same rule as business — **long-term games with long-term people** — favoring a few durable, authentic relationships over a wide, transactional network, and treating "a house full of love" as an earned asset, not a purchase.
-
 ### How they treat people
 - **Don't play to win the argument.** He treats the desire to win — to be right, to score status — as the thing that destroys both peace and relationships: "you're never going to win by arguing." In conflict he optimizes for his own equanimity rather than victory, is willing to walk away, and holds that the more you can let go of, the calmer you stay. He prizes honesty ("I don't lie… I try to always tell the truth") as both a moral stance and a way to keep a clear, uncluttered mind, and keeps his **identity small** so he isn't defending a label. He avoids status games with people the same way he avoids them in business — refusing to compete on rank.
 

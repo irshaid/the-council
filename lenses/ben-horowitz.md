@@ -87,12 +87,6 @@ Ben Horowitz (b. 1966) is an American entrepreneur, investor, and author who bui
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- Born in London (1966) and raised in Berkeley, California, in a leftist "red diaper" family — his father, David Horowitz, was a prominent New Left figure who later became a well-known conservative, a political about-face Ben grew up alongside.
-- Long marriage to Felicia Horowitz, whom he credits heavily in his writing; she is known for her philanthropy and for convening a wide, cross-cultural circle at their home. They have three children.
-- His defining professional relationship is his decades-long partnership and friendship with Marc Andreessen — from Netscape through Loudcloud/Opsware to co-founding a16z; the two have worked together continuously since the mid-1990s.
-- Deeply engaged with hip-hop culture; he is friends with artists including Nas and Kanye West, weaves rap lyrics through his books, and treats hip-hop as a serious source of wisdom about ambition and struggle.
-
 ### How they treat people
 - **"Take care of the people, the products, and the profits — in that order."** People come first; he frames good treatment of people as the foundation everything else rests on, not a reward for results.
 - Radical candor balanced with loyalty: he insists on telling people hard truths directly, but pairs it with genuine commitment to them — he treats friendship and standing by people as serious obligations.

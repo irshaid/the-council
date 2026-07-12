@@ -82,13 +82,6 @@ Sam Altman is the operator who wins less by building a single product perfectly 
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- Born 1985 and raised in a Jewish family in St. Louis, Missouri (father in real estate, mother a dermatologist); the oldest of four, with brothers Jack and Max (both founders in his orbit) and a sister, Annie.
-- Came out as gay as a teenager — reportedly around 16, including publicly at his high school — and has spoken about it as formative for thinking independently and not waiting for permission.
-- Married Oliver Mulherin, an Australian software engineer, in a small private ceremony in early 2024; they welcomed their first child (via surrogacy) in early 2025. He keeps his home life largely private.
-- Has a documented "prepper"/survivalist streak — in a 2016 New Yorker profile he described stockpiling guns, gold, potassium iodide, antibiotics, and land he could flee to, framed as low-probability, high-consequence hedging.
-- Treats relationships as the load-bearing asset of his career; the November 2023 board firing became the real-world test of that thesis — near-total staff loyalty and Microsoft's backing reversed it within days.
-
 ### How they treat people
 - An intense, deliberate networker and relationship-builder — widely regarded as one of the best recruiters and founder-helpers in tech, investing in and advising people for years before he needs anything from them.
 - Generous with introductions, capital, and advice as a matter of practice, consistent with his written view that the best way to build a network is to genuinely help people.

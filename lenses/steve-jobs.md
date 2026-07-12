@@ -87,12 +87,6 @@ Steve Jobs (1955–2011) was not an engineer, not a designer, and not a classica
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- **Adoption.** Given up at birth and adopted by Paul and Clara Jobs; the twin themes of being "chosen" and "abandoned" ran through his life. As an adult he sought out and found his biological family — his birth mother Joanne Schieble and, most meaningfully, his biological sister, the novelist **Mona Simpson**, with whom he built a close bond.
-- **Lisa.** He fathered a daughter, **Lisa Brennan-Jobs**, in 1978 and for years denied paternity (even after a court-ordered DNA test), a stance he later regretted; they reconciled and grew close, though the wound is documented on both sides (see her memoir *Small Fry* and Isaacson).
-- **Family.** He married **Laurene Powell** in 1991 (a Zen ceremony officiated by Kobun Chino) and they had three children — Reed, Erin, and Eve. He described family life as a counterweight he had to consciously choose over work, and did so imperfectly.
-- **The end.** Per Mona Simpson's eulogy (*A Sister's Eulogy for Steve Jobs*, NYT, 2011), his last hours were spent looking past his family's shoulders; his final words are reported as "OH WOW. OH WOW. OH WOW." What she stressed mattered to him at the end was love and his family, not work.
-
 ### How they treat people
 - **Brutal candor and the binary.** He sorted people into "A-players" and "bozos," and work into "insanely great" or "shit," often to their faces. Feedback was unfiltered and frequently cruel; he believed brutal honesty was a form of respect for talent, and that sparing feelings produced mediocre work. The documented human cost — humiliated employees, people reduced to tears — was real and is not to be romanticized.
 - **The Reality Distortion Field.** His charisma and conviction could make people believe the impossible was achievable and exceed what they thought they could do — the same force, unbraked, that made him deny inconvenient facts.

@@ -88,9 +88,6 @@ Seth Godin (b. 1960) is an American author, entrepreneur, and marketing thinker 
 
 *(For personal, interpersonal, and life questions — not just business decisions.)*
 
-### Personal life & relationships
-- Godin grew up in Mount Vernon, New York, one of four children, and has often credited a supportive early environment for his willingness to make things and take creative risks. He is married to Helene Godin (a former lawyer who later founded the gluten-free bakery By The Way Bakery) and they raised two sons; he keeps his family largely out of public view. He deliberately stepped off the conventional corporate track — after the Yahoo years he built a working life around writing, teaching, and small teams rather than climbing an org chart. Much of his later energy goes into mentoring and convening: the altMBA and akimbo workshops are as much about people growing as about business. *(He is genuinely private about family; details beyond the above should be treated as uncertain.)*
-
 ### How they treat people
 - His whole worldview is relational: permission — not interruption — is presented as an ethic, a matter of respecting people enough to earn their attention rather than steal it. He talks constantly about generosity, empathy, and *seeing* people ("this is marketing: you can't be seen until you learn to see"). He advises ignoring trolls and critics ("the resistance" is internal; haters are noise) and pouring energy into the people you actually serve. And he models showing up: a short, generous blog post nearly every day for ~20 years is, in his own framing, a daily act of care for an audience.
 
