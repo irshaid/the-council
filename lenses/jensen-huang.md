@@ -18,6 +18,8 @@ Huang is a useful lens for a founder because his edge was not one product but a 
 - **"Top-5 things" emails.** He reportedly asks employees across the company to send him short "top five things" notes — what they're observing, working on, or worried about — so signal reaches him directly from many levels, not filtered up a hierarchy.
 - **Information broadcast, not cascaded.** His stated principle is that a leader's reasoning should be shared with as many people as possible at once. He'd rather give feedback in front of the group so everyone learns from it, treating the whole company as able to handle direct, transparent information.
 - **Whiteboard-driven and technically hands-on.** He is known for reasoning at the whiteboard and engaging deeply with the technical detail of chips, systems, and roadmaps rather than staying at an abstract executive altitude.
+- **The org mirrors the product — "extreme co-design."** He frames the flat structure as a direct consequence of what NVIDIA builds: because a modern AI system is one integrated design spanning memory, CPUs, optics, GPUs, architecture, and algorithms, nearly all his ~60 direct reports are the domain experts for those layers, and the company is run as a single co-designed system rather than isolated silos. *(Lex Fridman #494.)*
+- **No 1:1s "because it's impossible" — attack problems as a group.** He says he skips one-on-ones by necessity at that span of control, and instead convenes the whole staff around a problem so every specialist hears how a decision on cooling, networking, or power ripples into their own domain. The transparency isn't just a value — it's how the co-design actually gets done. *(Lex Fridman #494.)*
 - **Long hours and high intensity as the norm.** He works relentlessly and expects a demanding pace, framing hardship as formative rather than something to shield people from (see the "pain and suffering" line below) — a culture admirers call mission-driven and critics call punishing.
 
 ## How they make decisions
@@ -26,6 +28,8 @@ Huang is a useful lens for a founder because his edge was not one product but a 
 - **Hold conviction through disbelief.** Once he believes the thesis is right, he is willing to be misunderstood and unprofitable for a long time (CUDA), treating early skepticism as the price of a genuine platform rather than a signal to retreat.
 - **Operate as if survival is never assured.** His running mantra — the company is always "thirty days from going out of business" — is a decision discipline: it keeps urgency, paranoia, and willingness to change high even at the top of a cycle.
 - **Decide with the team in the open.** Because information is broadcast rather than siloed, decisions and their reasoning are exposed to many people, which both pressure-tests them and spreads the logic — reducing dependence on private lobbying.
+- **Manifest the future, then endure the gap to it.** His account of conviction is almost visual: he reasons out a future so completely that, to him, it becomes inevitable — and everything between now and then is just suffering to be absorbed. "There's a lot of suffering in between, but you've gotta believe what you believe." *(Lex Fridman #494.)*
+- **Shape belief slowly, so the decision lands as overdue.** Before announcing a major bet he lays groundwork for a long time — consistent messaging to employees, board, management, and partners — so that by the time it's official the reaction isn't shock but "what took you so long?" The decision is socialized before it is declared. *(Lex Fridman #494.)*
 
 ## Decision playbook
 
@@ -61,6 +65,7 @@ Huang is a useful lens for a founder because his edge was not one product but a 
 - **Surviving the early graphics wars (1990s).** NVIDIA was one of dozens of graphics-chip startups, most of which failed. Betting the company on the right architecture at make-or-break moments in its early years forged Huang's survival mindset and the company's engineering discipline.
 - **The Mellanox acquisition (announced 2019, ~$7B).** Buying high-performance networking to build full data-center-scale systems, not just chips — a concrete expression of the full-stack platform strategy that positioned NVIDIA for the era of massive AI clusters.
 - **The failed ARM acquisition (2020-2022, ~$40B announced).** NVIDIA's attempt to buy ARM collapsed under regulatory and competitive opposition and was abandoned in 2022 — a reminder that even Huang's biggest strategic bets can be blocked by antitrust and industry pushback, not just by markets.
+- **Putting CUDA on GeForce — the bet that nearly broke the company.** Rather than confine CUDA to expensive specialist parts, Huang carried it on the mass-market GeForce line so researchers everywhere could get their hands on it. He says it raised cost by roughly 50% and effectively consumed the company's gross profit, and the market cap fell from around $6-8B to about $1.5B. NVIDIA "clawed" its way back over roughly a decade — and the wide distribution is exactly what let deep-learning researchers discover the platform, so he now describes NVIDIA as the house that GeForce built. *(Lex Fridman #494.)*
 - **Riding the generative-AI wave to ~$3T (2023-2025).** As large language models exploded, NVIDIA's decades of accelerated-computing investment made it the default AI-compute platform, and its valuation reached the multi-trillion-dollar range. A genuine vindication of long-term conviction — and, honestly, a demonstration of how much the payoff depended on the wave breaking exactly where he'd bet.
 
 ## Strengths to borrow
@@ -94,6 +99,7 @@ Huang is a useful lens for a founder because his edge was not one product but a 
 - **Humility about origins.** He returns often to the busboy job and the Denny's booth where NVIDIA was discussed, using them to stay grounded and to argue that where you start doesn't determine where you end.
 - **Long-term conviction over short-term validation.** His deepest professional value is holding a thesis through disbelief; emotionally, he appears comfortable being doubted for years, treating skepticism as the price of building something real.
 - **Craft and substance.** As a trained engineer, he values genuine technical depth and reasoning over polish or salesmanship — the whiteboard over the slide deck.
+- **Conviction as a way of carrying pain.** His emotional relationship to hardship is inseparable from belief: once he has manifested a future in his mind, the years of suffering, losses, and doubt in between become tolerable because the destination feels certain. Endurance, for him, is downstream of conviction rather than raw grit. *(Lex Fridman #494.)*
 
 ### Habits, health & daily rhythm
 - **Relentless work pace.** Huang is widely reported to work extremely long hours and to be almost always "on," reflecting the survival-mode urgency he describes; treat specific routines as less documented than the overall intensity. *(Verify any precise schedule claims.)*
@@ -129,3 +135,4 @@ Huang is a useful lens for a founder because his edge was not one product but a 
 - [NVIDIA newsroom — company history and GTC keynote archives](https://nvidianews.nvidia.com/)
 - [Stanford GSB — Jensen Huang "View From The Top" talk (career, Denny's, first principles)](https://www.gsb.stanford.edu/insights)
 - [NVIDIA — Jensen Huang executive biography](https://nvidianews.nvidia.com/bios/jensen-huang)
+- Lex Fridman Podcast #494 — Jensen Huang (transcript): https://lexfridman.com/jensen-huang-transcript
