@@ -47,41 +47,58 @@ And when the decision hinges on something it doesn't know — your budget, your 
 
 ## The 50 advisors
 
-**Strategy, decisions & capital allocation**
-[Jeff Bezos](lenses/jeff-bezos.md) · [Charlie Munger](lenses/charlie-munger.md) · [Warren Buffett](lenses/warren-buffett.md) · [Peter Thiel](lenses/peter-thiel.md) · [Ray Dalio](lenses/ray-dalio.md) · [Larry Fink](lenses/larry-fink.md) · [Jamie Dimon](lenses/jamie-dimon.md) · [Lou Gerstner](lenses/lou-gerstner.md)
-
-**Founders & the early game**
-[Naval Ravikant](lenses/naval-ravikant.md) · [Paul Graham](lenses/paul-graham.md) · [Reid Hoffman](lenses/reid-hoffman.md) · [Sara Blakely](lenses/sara-blakely.md) · [Melanie Perkins](lenses/melanie-perkins.md)
-
-**Product, design & taste**
-[Steve Jobs](lenses/steve-jobs.md) · [Brian Chesky](lenses/brian-chesky.md) · [Stewart Butterfield](lenses/stewart-butterfield.md) · [Tobi Lütke](lenses/tobi-lutke.md)
-
-**AI & deep tech**
-[Demis Hassabis](lenses/demis-hassabis.md) · [Dario Amodei](lenses/dario-amodei.md) · [Sam Altman](lenses/sam-altman.md) · [Andrew Ng](lenses/andrew-ng.md) · [Elon Musk](lenses/elon-musk.md)
-
-**Hardware & semiconductors**
-[Jensen Huang](lenses/jensen-huang.md) · [Lisa Su](lenses/lisa-su.md)
-
-**SaaS & platforms**
-[Marc Benioff](lenses/marc-benioff.md) · [Frank Slootman](lenses/frank-slootman.md) · [Patrick Collison](lenses/patrick-collison.md) · [Satya Nadella](lenses/satya-nadella.md)
-
-**Big Tech at scale**
-[Tim Cook](lenses/tim-cook.md) · [Sundar Pichai](lenses/sundar-pichai.md) · [Larry Page](lenses/larry-page.md) · [Eric Schmidt](lenses/eric-schmidt.md) · [Mark Zuckerberg](lenses/mark-zuckerberg.md) · [Bill Gates](lenses/bill-gates.md)
-
-**Growth, marketing & brand**
-[Seth Godin](lenses/seth-godin.md) · [Alex Hormozi](lenses/alex-hormozi.md) · [Andrew Chen](lenses/andrew-chen.md) · [Phil Knight](lenses/phil-knight.md)
-
-**Leadership, culture & turnarounds**
-[Ben Horowitz](lenses/ben-horowitz.md) · [Mary Barra](lenses/mary-barra.md) · [Howard Schultz](lenses/howard-schultz.md) · [Indra Nooyi](lenses/indra-nooyi.md)
-
-**Retail, consumer & luxury**
-[Sam Walton](lenses/sam-walton.md) · [Bernard Arnault](lenses/bernard-arnault.md)
-
-**Media, attention & audience**
-[Bob Iger](lenses/bob-iger.md) · [Oprah Winfrey](lenses/oprah-winfrey.md) · [Zhang Yiming](lenses/zhang-yiming.md) · [Reed Hastings](lenses/reed-hastings.md)
-
-**Independence & emerging markets**
-[Jack Ma](lenses/jack-ma.md) · [Pavel Durov](lenses/pavel-durov.md)
+| # | Advisor | Role | Where | Expert in |
+|--|---------|------|-------|-----------|
+| 1 | [Jeff Bezos](lenses/jeff-bezos.md) | Founder & Exec Chairman | Amazon · Blue Origin | Deciding under uncertainty · long-term bets · customer obsession · scaling |
+| 2 | [Charlie Munger](lenses/charlie-munger.md) | Late Vice Chairman | Berkshire Hathaway | Value investing · mental models · inversion · avoiding stupidity |
+| 3 | [Warren Buffett](lenses/warren-buffett.md) | Chairman (former CEO) | Berkshire Hathaway | Value investing · capital allocation · temperament · insurance float |
+| 4 | [Peter Thiel](lenses/peter-thiel.md) | Co-founder | PayPal · Palantir · Founders Fund | Contrarian strategy · monopoly vs. competition · positioning |
+| 5 | [Ray Dalio](lenses/ray-dalio.md) | Founder | Bridgewater Associates | Macro & debt cycles · systematic principles · radical transparency |
+| 6 | [Larry Fink](lenses/larry-fink.md) | Co-founder & CEO | BlackRock | Risk management · capital allocation · macro/structural shifts |
+| 7 | [Jamie Dimon](lenses/jamie-dimon.md) | Chairman & CEO | JPMorgan Chase | Banking · systemic risk · crisis navigation · fortress balance sheet |
+| 8 | [Lou Gerstner](lenses/lou-gerstner.md) | Former Chairman & CEO | IBM | Legacy-enterprise turnarounds · execution before vision · culture change |
+| 9 | [Naval Ravikant](lenses/naval-ravikant.md) | Founder | AngelList | Leverage · wealth vs. status · the solo builder · inner game |
+| 10 | [Paul Graham](lenses/paul-graham.md) | Co-founder | Y Combinator | Early-stage startups · founder advice · growth · doing what doesn't scale |
+| 11 | [Reid Hoffman](lenses/reid-hoffman.md) | Co-founder / Partner | LinkedIn · Greylock | Blitzscaling · network effects · career strategy (ABZ) |
+| 12 | [Sara Blakely](lenses/sara-blakely.md) | Founder | Spanx | Bootstrapping · consumer products · sales grit · keeping ownership |
+| 13 | [Melanie Perkins](lenses/melanie-perkins.md) | Co-founder & CEO | Canva | Product-led growth · freemium design · radical simplicity |
+| 14 | [Steve Jobs](lenses/steve-jobs.md) | Co-founder & former CEO | Apple | Focus · product taste · simplicity · shipping · saying no |
+| 15 | [Brian Chesky](lenses/brian-chesky.md) | Co-founder & CEO | Airbnb | Design-led product · marketplaces · founder mode · crisis leadership |
+| 16 | [Stewart Butterfield](lenses/stewart-butterfield.md) | Co-founder & former CEO | Slack · Flickr | Product-led growth · product craft · positioning · pivoting |
+| 17 | [Tobi Lütke](lenses/tobi-lutke.md) | Co-founder & CEO | Shopify | Commerce platforms · developer/craft culture · long-term management |
+| 18 | [Demis Hassabis](lenses/demis-hassabis.md) | Co-founder & CEO | Google DeepMind | Deep-tech R&D · AI · problem selection · long-horizon research |
+| 19 | [Dario Amodei](lenses/dario-amodei.md) | Co-founder & CEO | Anthropic | Frontier AI · safety/trust · building on a technical thesis |
+| 20 | [Sam Altman](lenses/sam-altman.md) | Co-founder & CEO | OpenAI | Network · fundraising/capital · GTM · resourcefulness |
+| 21 | [Andrew Ng](lenses/andrew-ng.md) | Founder | DeepLearning.AI · Landing AI | Applied/data-centric AI · enterprise deployment · AI education |
+| 22 | [Elon Musk](lenses/elon-musk.md) | CEO / Founder | Tesla · SpaceX · xAI | First principles · engineering & cost · execution velocity |
+| 23 | [Jensen Huang](lenses/jensen-huang.md) | Co-founder & CEO | NVIDIA | Semiconductors · AI-compute platforms · long-horizon platform bets |
+| 24 | [Lisa Su](lenses/lisa-su.md) | Chair & CEO | AMD | Semiconductors · corporate turnaround · execution discipline |
+| 25 | [Marc Benioff](lenses/marc-benioff.md) | Founder, Chair & CEO | Salesforce | SaaS category creation · subscription · ecosystem · marketing |
+| 26 | [Frank Slootman](lenses/frank-slootman.md) | Former CEO | Snowflake · ServiceNow | Enterprise-SaaS scaling · hypergrowth · raising standards |
+| 27 | [Patrick Collison](lenses/patrick-collison.md) | Co-founder & CEO | Stripe | Developer-first / API-as-product · infrastructure · craft |
+| 28 | [Satya Nadella](lenses/satya-nadella.md) | Chairman & CEO | Microsoft | Cloud/SaaS transformation · culture change · platform partnerships |
+| 29 | [Tim Cook](lenses/tim-cook.md) | CEO (→ Exec Chairman, 2026) | Apple | Operations · supply chain · scaling · margins · values-driven leadership |
+| 30 | [Sundar Pichai](lenses/sundar-pichai.md) | CEO | Google & Alphabet | Product management at scale · running a giant · steady AI pivot |
+| 31 | [Larry Page](lenses/larry-page.md) | Co-founder | Google / Alphabet | 10x/moonshot thinking · founder mindset · audacious tech bets |
+| 32 | [Eric Schmidt](lenses/eric-schmidt.md) | Former Chairman & CEO | Google | Scaling a startup into a giant · management · "smart creatives" |
+| 33 | [Mark Zuckerberg](lenses/mark-zuckerberg.md) | Co-founder & CEO | Meta | Scaling social · founder control · platform pivots · open-source strategy |
+| 34 | [Bill Gates](lenses/bill-gates.md) | Co-founder | Microsoft · Gates Foundation | Software platforms · competitive strategy · measurement-driven philanthropy |
+| 35 | [Seth Godin](lenses/seth-godin.md) | Author & marketer | Independent (ex-Yahoo) | Marketing · brand · audience-building · permission/remarkability |
+| 36 | [Alex Hormozi](lenses/alex-hormozi.md) | Founder | Acquisition.com | Offers · pricing · sales · lead generation · unit economics |
+| 37 | [Andrew Chen](lenses/andrew-chen.md) | General Partner | Andreessen Horowitz (a16z) | Growth · network effects · the cold-start problem · marketplaces |
+| 38 | [Phil Knight](lenses/phil-knight.md) | Co-founder | Nike | Brand-building · marketing & storytelling · sports/consumer |
+| 39 | [Ben Horowitz](lenses/ben-horowitz.md) | Co-founder | Andreessen Horowitz (a16z) | Leadership · people & culture · scaling teams · hard CEO calls |
+| 40 | [Mary Barra](lenses/mary-barra.md) | Chair & CEO | General Motors | Manufacturing/industrials · legacy transformation · EV bet · crisis accountability |
+| 41 | [Howard Schultz](lenses/howard-schultz.md) | Former Chairman & CEO | Starbucks | Consumer experience/hospitality · brand · scaling culture · turnarounds |
+| 42 | [Indra Nooyi](lenses/indra-nooyi.md) | Former Chairman & CEO | PepsiCo | CPG strategy · long-term portfolio transformation · stakeholder capitalism |
+| 43 | [Sam Walton](lenses/sam-walton.md) | Founder | Walmart | Retail · cost discipline · distribution/logistics · frontline culture |
+| 44 | [Bernard Arnault](lenses/bernard-arnault.md) | Chairman & CEO | LVMH | Luxury & brand-building · pricing power/scarcity · empire building |
+| 45 | [Bob Iger](lenses/bob-iger.md) | Former CEO | The Walt Disney Company | Media/entertainment · transformative M&A · managing creatives |
+| 46 | [Oprah Winfrey](lenses/oprah-winfrey.md) | Founder & Chair | Harpo · OWN | Media · personal brand & trust · owning your IP · audience |
+| 47 | [Zhang Yiming](lenses/zhang-yiming.md) | Founder | ByteDance (TikTok) | Algorithm-as-moat · global consumer product · engineer-led culture |
+| 48 | [Reed Hastings](lenses/reed-hastings.md) | Co-founder & former Chairman | Netflix | Subscription/streaming · self-disruption · talent-density culture |
+| 49 | [Jack Ma](lenses/jack-ma.md) | Co-founder | Alibaba · Ant Group | E-commerce · fintech · China/emerging markets · founder culture |
+| 50 | [Pavel Durov](lenses/pavel-durov.md) | Founder & CEO | Telegram | Lean high-leverage teams · privacy/encryption · independence over capital |
 
 ---
 
