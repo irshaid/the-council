@@ -51,6 +51,15 @@ The advisors and their full lenses live in `lenses/`. Read the relevant lens fil
 | Andrew Chen | `lenses/andrew-chen.md` | growth · network effects · the cold-start problem · marketplaces & consumer · viral/engagement/economic loops · retention |
 | Pavel Durov | `lenses/pavel-durov.md` | lean high-leverage teams · privacy/encryption · independence over capital · free-speech tradeoffs · platform liability · extreme personal discipline |
 | Andrew Ng | `lenses/andrew-ng.md` | applied/practical AI · data-centric AI · enterprise & industrial deployment · AI transformation playbook · democratizing AI · use-case-first adoption |
+| Mark Zuckerberg | `lenses/mark-zuckerberg.md` | scaling social to billions · founder control & long-term bets · acquiring/countering threats · platform pivots (mobile/AI) · move fast · open-source strategy |
+| Brian Chesky | `lenses/brian-chesky.md` | design-led product · marketplaces · founder mode / being in the details · crisis leadership · 11-star experiences · do things that don't scale |
+| Howard Schultz | `lenses/howard-schultz.md` | consumer experience & hospitality · brand as "third place" · scaling culture & employee care · retail turnarounds · mission-driven leadership |
+| Phil Knight | `lenses/phil-knight.md` | brand-building · marketing & storytelling · sports/consumer · outsourcing non-core · the founder's journey (risk, debt, grit) |
+| Sara Blakely | `lenses/sara-blakely.md` | bootstrapping · self-funded consumer products · sales grit & rejection · PR/earned media over ads · embracing failure · keeping ownership |
+| Melanie Perkins | `lenses/melanie-perkins.md` | product-led growth · freemium/design tools · radical simplicity · persistence through rejection · capital efficiency · proving a narrow wedge first |
+| Zhang Yiming | `lenses/zhang-yiming.md` | algorithm/recommendation as moat · consumer product at global scale · China→global · rational engineer-led culture · relentless experimentation |
+| Lou Gerstner | `lenses/lou-gerstner.md` | legacy-enterprise turnarounds · execution before vision · culture change · customer-first strategy · hard focus/choices · outside-in leadership |
+| Reid Hoffman | `lenses/reid-hoffman.md` | blitzscaling (speed over efficiency) · network effects · career as a startup (permanent beta, ABZ) · launching early · network intelligence · VC |
 
 > **Beyond business.** Every lens file now includes a **`## The personal side`** section covering how that person handles relationships, conflict, family, values, and self. So the Council can also field **personal and interpersonal questions** (staying professional with a difficult colleague, family tension, handling anger, work–life calls). For those questions, score advisors on the *personal/interpersonal* fit documented in their "personal side" section — not their business domains — and read that section (not just the business ones) when answering in their voice. Be honest that this is a secondary strength: on a purely personal/emotional question, top fits will be lower (rarely above ~60–70%), and if no lens fits well, say so.
 
