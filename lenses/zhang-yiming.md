@@ -10,13 +10,13 @@ Zhang took a contrarian thesis — that machine-learning content recommendation,
 - **Nankai University — microelectronics, then software.** He enrolled in microelectronics and switched to software engineering, an early move toward where his real interest and edge lay: building things with code rather than hardware. He met his future wife at university.
 - **A string of startups before the hit.** Before ByteDance he cut his teeth at travel-search startup Kuxun, briefly at Microsoft (which he reportedly found too slow and constrained), and founded the real-estate search site 99fang. These gave him direct experience with search, information retrieval, and how mobile was about to change everything — 99fang taught him that mobile would reset the entire information-distribution game.
 - **The mobile + information-overload insight (2012).** He founded ByteDance betting that smartphones would flood people with more content than they could ever sort themselves, and that the winning product would be a machine that *decided for you* — personalized recommendation rather than search or a social feed. Toutiao ("Today's Headlines") was the first expression of it.
-- **A quant/rational worldview.** Zhang repeatedly frames himself as valuing rationality over emotion and ego, admiring people who "delay gratification" and keep a calm, ordinary mind (平常心). He treats himself as a fairly ordinary young person whose main advantage is disciplined rationality rather than genius or charisma.
+- **A quant/rational worldview.** Zhang repeatedly frames himself as valuing rationality over emotion and ego, admiring people who "delay gratification" and keep a calm, ordinary mind (pingchang xin). He treats himself as a fairly ordinary young person whose main advantage is disciplined rationality rather than genius or charisma.
 
 ## How they operate (work style)
 - **The algorithm is the product — and the org.** Zhang built ByteDance around a central recommendation-engine capability that could be pointed at any content vertical (news, short video, and more). Product teams sit on top of a shared machine-learning core; the company is organized so the algorithm improves once and every product benefits.
 - **Relentless A/B experimentation.** ByteDance is famous for running enormous numbers of experiments continuously — UI, ranking, growth loops — and letting data, not opinion or hierarchy, settle debates. The default answer to "which is better?" is "test it." Zhang has described wanting decisions grounded in measurement rather than seniority.
 - **Hire exceptional people and pay top of market.** Zhang's stated staffing philosophy is to recruit unusually capable people, give them real scope, and compensate generously — the belief being that a small number of top people vastly outperform a larger number of average ones, and that talent density is a competitive weapon.
-- **"ByteStyle" values, low on ego and status.** ByteDance's culture ("字节范") emphasizes "Always Day 1," pursuing excellence (追求极致), being pragmatic and daring (务实敢为), openness and humility (开放谦逊), and diversity. Zhang deliberately kept the culture flat, un-hierarchical, and light on titles and internal politics, mirroring his own dislike of status games.
+- **"ByteStyle" values, low on ego and status.** ByteDance's culture ("zijie fan") emphasizes "Always Day 1," pursuing excellence (zhuiqiu jizhi), being pragmatic and daring (wushi ganwei), openness and humility (kaifang qianxun), and diversity. Zhang deliberately kept the culture flat, un-hierarchical, and light on titles and internal politics, mirroring his own dislike of status games.
 - **Globalize the product, not just the market.** Rather than treating overseas as an afterthought, Zhang set an early goal for ByteDance to be a genuinely global company — targeting a large share of users outside China — and built acquisition (Musical.ly) and localization into the plan while keeping the recommendation core centralized.
 - **Analyst temperament over showman.** By his own account he prefers reading, analysis, and quiet reflection to public performance and heavy people-management; he ran the company more as a systems designer than as a charismatic front-man.
 
@@ -54,9 +54,9 @@ Zhang took a contrarian thesis — that machine-learning content recommendation,
 - **The recommendation algorithm as moat (the data flywheel).** More users → more interaction data → a better-trained feed → more engaging content served → more users and time spent → still more data. The moat is not any single feature (which competitors copy in weeks) but the compounding quality of a self-improving recommendation loop that rivals can't easily replicate without the same data and iteration velocity.
 - **Algorithm over social graph.** The contrarian core bet: you don't need to own users' friend networks to win attention. A good-enough recommender can deliver each user relevant content directly, which is why TikTok could beat graph-based incumbents (Facebook/Instagram) at engagement despite starting with no network.
 - **Globalize the product, not just the market.** Build a genuinely global company by shipping one product worldwide — localizing content, creators, and UX per country while keeping a single centralized algorithm underneath — rather than treating international as a bolt-on.
-- **Delay gratification (延迟满足).** Forgo the immediate, smaller reward for the larger, later one; the capacity to tolerate short-term pain for long-term compounding is, in his framing, a defining founder trait.
+- **Delay gratification (yanchi manzu).** Forgo the immediate, smaller reward for the larger, later one; the capacity to tolerate short-term pain for long-term compounding is, in his framing, a defining founder trait.
 - **Rational, engineer-led culture.** Decisions by experiment and data rather than hierarchy; talent density over headcount; flat structure, low ego, minimal politics — a culture designed to keep improving the machine, not to protect status.
-- **Ordinary mind / equanimity (平常心).** Treat yourself as an ordinary young person whose edge is disciplined rationality, not genius or charisma — a deliberate guard against ego distorting judgment.
+- **Ordinary mind / equanimity (pingchang xin).** Treat yourself as an ordinary young person whose edge is disciplined rationality, not genius or charisma — a deliberate guard against ego distorting judgment.
 
 ## Signature decisions / case studies
 - **Toutiao (launched 2012).** An AI-personalized news aggregator that used machine-learning recommendation instead of human editors or explicit search, growing into one of China's largest content platforms. It proved that a feed could be driven by an algorithm reading behavior rather than by a social graph or editorial desk — the foundational proof of the whole ByteDance thesis.
@@ -94,7 +94,7 @@ Zhang took a contrarian thesis — that machine-learning content recommendation,
 - **Rationality over emotion and ego.** His deepest stated value is disciplined rationality — keeping calm, removing ego and face from judgment, and treating himself as an ordinary person whose edge is clear thinking rather than genius.
 - **Delay gratification as a life principle.** The heuristic he applies to business he also frames as a personal virtue: the ability to forgo immediate rewards for larger long-term ones, and to stay patient and non-anxious in the present.
 - **Curiosity and the life of the mind.** He describes preferring reading, analysis, listening to music, and daydreaming about what might be possible over socializing and managing — a genuinely intellectual, inward temperament.
-- **Equanimity (平常心).** He returns often to the idea of keeping an ordinary, unflustered mind — not letting success inflate the ego or setbacks trigger anxiety.
+- **Equanimity (pingchang xin).** He returns often to the idea of keeping an ordinary, unflustered mind — not letting success inflate the ego or setbacks trigger anxiety.
 
 ### Habits, health & daily rhythm
 - **Heavy reader and information consumer.** A lifelong habit of reading widely — biographies, news, analysis — which is both temperament and, not coincidentally, the raw material of the product he built.
@@ -111,17 +111,17 @@ Zhang took a contrarian thesis — that machine-learning content recommendation,
 7. **If you're unsure who's right, then look for evidence, not rank** — let merit settle it, with others and with yourself.
 
 ### On life & people — in their words
-- "Delay gratification" (延迟满足) — a principle Zhang has repeatedly cited in interviews and talks as one of the most important traits for a founder and a person. *(Widely reported paraphrase from his Chinese-language remarks; exact wording varies across translations.)*
+- "Delay gratification" (yanchi manzu) — a principle Zhang has repeatedly cited in interviews and talks as one of the most important traits for a founder and a person. *(Widely reported paraphrase from his Chinese-language remarks; exact wording varies across translations.)*
 - In his May 2021 letter announcing he would step down as CEO, Zhang described himself as lacking some of the skills of an ideal manager and as more interested in analyzing organizational and market principles — adding that he is not very social and prefers activities like reading, listening to music, and daydreaming about what may be possible. *(Paraphrased from published translations of the internal letter; wording varies.)*
-- He has described keeping a "平常心" — an ordinary, equanimous mind — and thinking of himself as an ordinary young person whose advantage is rationality rather than exceptional talent. *(Reported from Chinese-language interviews; translation approximate.)*
+- He has described keeping a "pingchang xin" — an ordinary, equanimous mind — and thinking of himself as an ordinary young person whose advantage is rationality rather than exceptional talent. *(Reported from Chinese-language interviews; translation approximate.)*
 
 ## How to consult this lens
 > *"Act as the Zhang lens. Decision: `<...>`. Is this testable — and if so, what's the experiment? What does the data-flywheel/moat logic say, and what does delaying gratification say? Verdict + blind spot (geopolitical/safety/ego)."*
 
 ## Notable quotes
-- "Delay gratification" (延迟满足). — a heuristic Zhang has repeatedly emphasized in interviews and talks. *(Reported paraphrase from Chinese-language remarks; translations vary.)*
+- "Delay gratification" (yanchi manzu). — a heuristic Zhang has repeatedly emphasized in interviews and talks. *(Reported paraphrase from Chinese-language remarks; translations vary.)*
 - On stepping down (May 2021): he wrote that he lacked some of the skills of an ideal manager, was more interested in analyzing organizational and market principles, and was "not very social," preferring reading, listening to music, and daydreaming about what may be possible. *(Paraphrased from published translations of his internal letter; exact wording varies.)*
-- On temperament: keep a "平常心" (ordinary, equanimous mind) and treat yourself as an ordinary person whose edge is rationality. *(Reported from Chinese-language interviews; translation approximate.)*
+- On temperament: keep a "pingchang xin" (ordinary, equanimous mind) and treat yourself as an ordinary person whose edge is rationality. *(Reported from Chinese-language interviews; translation approximate.)*
 
 *(Note: Zhang gives few English-language interviews and much of his most-quoted material comes from Chinese-language interviews, talks, and translated internal letters. Treat all quotations above as reported/translated rather than verbatim English, and verify exact wording before publishing.)*
 
