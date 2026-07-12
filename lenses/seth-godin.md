@@ -84,6 +84,36 @@ Seth Godin (b. 1960) is an American author, entrepreneur, and marketing thinker 
 - **Memorable but vague vocabulary.** Terms like "tribe," "remarkable," and "linchpin" are motivating but elastic — easy to nod along to, hard to operationalize or falsify, and prone to becoming buzzwords.
 - **Optimism about "pick yourself" / democratized platforms.** Squidoo's decline into low-quality content is a concrete counterexample: removing gatekeepers also removes quality control, and not everyone who ships deserves an audience.
 
+## The personal side
+
+*(For personal, interpersonal, and life questions — not just business decisions.)*
+
+### Personal life & relationships
+- Godin grew up in Mount Vernon, New York, one of four children, and has often credited a supportive early environment for his willingness to make things and take creative risks. He is married to Helene Godin (a former lawyer who later founded the gluten-free bakery By The Way Bakery) and they raised two sons; he keeps his family largely out of public view. He deliberately stepped off the conventional corporate track — after the Yahoo years he built a working life around writing, teaching, and small teams rather than climbing an org chart. Much of his later energy goes into mentoring and convening: the altMBA and akimbo workshops are as much about people growing as about business. *(He is genuinely private about family; details beyond the above should be treated as uncertain.)*
+
+### How they treat people
+- His whole worldview is relational: permission — not interruption — is presented as an ethic, a matter of respecting people enough to earn their attention rather than steal it. He talks constantly about generosity, empathy, and *seeing* people ("this is marketing: you can't be seen until you learn to see"). He advises ignoring trolls and critics ("the resistance" is internal; haters are noise) and pouring energy into the people you actually serve. And he models showing up: a short, generous blog post nearly every day for ~20 years is, in his own framing, a daily act of care for an audience.
+
+### Values & inner life
+- **The practice.** Do the work regardless of whether you feel like it; feelings follow action, not the reverse. **Ship over perfection.** Hiding and stalling ("the resistance," the "lizard brain") is the real enemy, and imposter syndrome is a near-universal sign you're doing something that matters, not a reason to stop. **Generosity as a worldview**, not a tactic — give ideas away, make art, do work that matters to real people. He is broadly skeptical of status-driven consumerism and drawn to a quieter idea of *enough*.
+
+### Habits, health & daily rhythm
+- Has published a short blog post nearly every single day for well over a decade (widely cited as ~20+ years), which he treats as his core creative discipline. He is a voracious, wide-ranging reader and a prolific writer across roughly 20 books. Beyond the documented daily writing practice, specifics of his health or exercise routine are not well established — treat any such claims with caution.
+
+### Personal & interpersonal rules (to borrow)
+1. **If you're waiting to feel ready, ship anyway** — the practice means doing the work before the confidence arrives, not after.
+2. **If you catch yourself trying to please everyone, find your smallest viable audience** — a few people you serve completely beats a crowd that's indifferent, in friendship as in work.
+3. **If you're being generous, be specific** — vague niceness helps no one; give the particular person the particular thing they need.
+4. **If fear is talking, name it as the resistance and act scared** — the lizard brain lies; the discomfort is the signal you're on the right path.
+5. **If a troll or hater shows up, don't feed them** — ignore the critics who were never going to be served by you, and protect your energy for your true fans.
+6. **If imposter syndrome hits, treat it as evidence, not a verdict** — feeling like a fraud usually means you're doing something new and worthwhile.
+7. **If you want to matter to people, show up consistently** — reliability and small daily generosity compound into trust.
+
+### On life & people — in their words
+- *"The practice is not the means to the output, the practice is the output..."* — *The Practice* (2020).
+- *"This is the moment to do the work. Not because we're sure, but because we care."* — attributed to Godin (theme of *The Practice*); verify exact wording against the primary text.
+- *"You can't be seen until you learn to see."* — *This Is Marketing* (2018), subtitle and core theme.
+
 ## How to consult this lens
 > *"Act as the Godin lens. Decision: `<...>`. Is this remarkable enough that someone would tell a friend? Who exactly is the smallest viable audience, and what change am I making for them? Do I have permission, and will the idea spread? Is this a Dip worth pushing through or a dead end? Verdict + blind spot."*
 
@@ -108,3 +138,7 @@ Seth Godin (b. 1960) is an American author, entrepreneur, and marketing thinker 
 - Seth Godin, "The smallest viable audience" — https://seths.blog/2019/02/the-smallest-viable-audience/
 - Seth Godin, TED Talk "How to get your ideas to spread" — https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread
 - "Yahoo to Buy Yoyodyne," coverage of the 1998 acquisition — https://www.nytimes.com/1998/10/12/business/yahoo-to-acquire-a-marketing-company.html
+- Seth Godin, *Linchpin: Are You Indispensable?* (Portfolio, 2010) — on the "lizard brain," the resistance, and doing work that matters.
+- Seth Godin, *The Practice: Shipping Creative Work* (Portfolio, 2020) — on the practice, shipping over perfectionism, and creative fear.
+- By The Way Bakery (Helene Godin) — https://www.btwbakery.com/
+- akimbo workshops (incl. the altMBA) — https://akimbo.com/

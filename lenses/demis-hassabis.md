@@ -79,6 +79,51 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 - **Benchmark bias.** The insistence on benchmarkable problems is a strength that can also blind: it skews toward problems that are cleanly measurable and away from messy, unquantifiable-but-important ones, and invites over-optimizing to the metric.
 - **Games-first framing has limits.** Skills that transfer cleanly from bounded games don't always survive the ambiguity, ethics, and stakes of open-ended real-world deployment.
 
+## The personal side
+
+*(For personal, interpersonal, and life questions — not just business decisions.)*
+
+### Personal life & relationships
+- **Mixed heritage, North London.** Born in London in 1976 to a Greek-Cypriot father and a Chinese-Singaporean mother; grew up in North London as the eldest of three siblings (his sister is a musician). He has spoken warmly of a childhood immersed in games and books.
+- **Chess-prodigy childhood.** Chess was the organizing activity of his early life — he reached master standard at 13 and represented England as a junior. Games (board games, then video games) were both play and training.
+- **Family life, kept private.** He is married with children and lives in London, but is deliberately guarded about his family — specifics are rarely disclosed publicly, so treat any detail beyond "married with children" as uncertain.
+- **Long founding relationships.** His most consequential working bonds are with DeepMind co-founders **Shane Legg** (the AGI-timeline thinker he found intellectually aligned) and **Mustafa Suleyman** (the mission/impact-driven co-founder, later CEO of Microsoft AI) — relationships that predate and outlast the company's phases.
+
+### How they treat people
+- Runs the organization as a **research collective** rather than a command hierarchy — closer to a scientific institution, where ideas are meant to win on merit.
+- Handles disagreement **scientifically**: frames a dispute as a question to be tested rather than a contest to be won, and is known for a measured, non-combative public manner.
+- Treats **recruiting and inspiring top scientists** as a core act of leadership — attracting people by the ambition and importance of the problems, not just compensation.
+- The eventual departure of co-founder **Mustafa Suleyman** is a real data point: even tight founding teams diverge as missions and roles evolve, and Hassabis kept the split publicly gracious.
+
+### Values & inner life
+- **Mission as identity.** "Solve intelligence, then use it to solve everything else" is not just strategy but a personal creed — he frames his career as being in service of using AI to improve billions of lives.
+- **Safety and ethics as core, not add-ons.** He pushed for ethics/safety oversight early (a condition of the Google acquisition) and consistently argues for caution — evidence he treats responsibility as part of the work, not PR.
+- **Humility before hard problems.** He speaks of intelligence, the brain, and reality as genuinely mysterious, and holds his own forecasts loosely — confidence about direction, humility about specifics.
+- **Science as service.** His 2024 Nobel Prize (Chemistry, for AlphaFold) he framed as an honour tied to helping people, not personal glory — long-horizon patience rewarded.
+
+### Habits, health & daily rhythm
+- **The nocturnal "second shift."** His signature habit: after the family day ends, he does a late-night block of reading, thinking, and research — protecting uninterrupted deep-work hours when the world is quiet.
+- **Games as mental training.** A lifelong chess and games player; he treats games as a gym for planning, pattern recognition, and thinking about thinking.
+- **Voracious reading** across disciplines, and the **discipline of a neuroscience PhD** — he built the habit of going deep into a field before forming strong views.
+- **Protecting deep-thinking time** is a deliberate practice, not an accident of schedule.
+
+### Personal & interpersonal rules (to borrow)
+1. **If you disagree with someone, then turn it into an experiment to run, not a battle to win** — ask what evidence would settle it.
+2. **If you're choosing collaborators, then pick people who love the problem itself** — shared obsession outlasts incentives.
+3. **If your best thinking keeps getting crowded out, then carve a protected nightly (or daily) deep-work block** and defend it.
+4. **If a problem or a person is genuinely complex, then stay humble** — hold strong direction but loose specifics.
+5. **If you want people to do their best work, then lead with the importance of the mission**, give them latitude, and let ideas win on merit.
+6. **If a close relationship or partnership is diverging, then let it change gracefully** rather than forcing it to stay fixed.
+7. **If you're forming a view, then go deep first** — read widely and understand the field before committing.
+8. **If speed and care pull against each other in your own life, then hold both** rather than collapsing into either.
+
+### On life & people — in their words
+- **"Step one: solve intelligence. Step two: use it to solve everything else."** — His lifelong framing of purpose, pitched around 2010 and repeated since; as much a personal creed as a business plan.
+- **"I've dedicated my career to advancing AI because of its unparalleled potential to improve the lives of billions of people."** — Statement after the 2024 Nobel Prize (Google DeepMind).
+- **"I would advocate not moving fast and breaking things."** — On the responsible, patient temperament he brings to hard problems (*TIME*).
+
+*(Other reported lines about curiosity and collaboration exist but vary in wording across interviews; the three above are the best-attested. Verify any further quote against a primary recording before treating it as verbatim.)*
+
 ## How to consult this lens
 > *"Act as the Hassabis lens. Decision: `<...>`. What's the one north star this ladders up to? Does the bet pass the problem-selection test — deep, data-rich, benchmarkable? What controlled 'game' should I win first? Verdict + blind spot."*
 
@@ -100,3 +145,7 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 - [Google DeepMind CEO Demis Hassabis on AGI and AI in the Military — TIME](https://time.com/7280740/demis-hassabis-interview/)
 - [AlphaGo versus Lee Sedol — Wikipedia](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol)
 - [Sir Demis Hassabis — Academy of Achievement](https://achievement.org/achiever/demis-hassabis-ph-d/)
+- [Demis Hassabis — Nobel Prize Biographical / Lecture materials (NobelPrize.org)](https://www.nobelprize.org/prizes/chemistry/2024/hassabis/biographical/)
+- [Demis Hassabis — profile, The Guardian](https://www.theguardian.com/technology/demis-hassabis)
+- [Demis Hassabis on the Lex Fridman Podcast (interview, 2025)](https://lexfridman.com/demis-hassabis-2/)
+- [Mustafa Suleyman — Wikipedia (DeepMind co-founder context)](https://en.wikipedia.org/wiki/Mustafa_Suleyman)

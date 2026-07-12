@@ -83,6 +83,49 @@ Peter Thiel (b. 1967) is a German-American entrepreneur and venture capitalist w
 - **Palantir and surveillance.** His association with government surveillance and defense data work draws sustained civil-liberties criticism.
 - **Strong theses can be wrong.** Concentrated, conviction-driven betting is powerful in the upside but brittle when the thesis is mistaken — his macro hedge fund Clarium Capital, for example, soared then fell sharply after 2008. Certainty is an asset only when it's correct.
 
+## The personal side
+
+*(For personal, interpersonal, and life questions — not just business decisions.)*
+
+### Personal life & relationships
+- Born in Frankfurt, Germany (1967); his family emigrated to the US when he was a baby, and his father's mining work meant stints living in South Africa and in Swakopmund, Namibia during his childhood before the family settled in California.
+- A childhood chess prodigy — ranked among the highest-rated under-21 players in the US — with a fiercely competitive streak he has since described himself as having had to unlearn.
+- Studied at Stanford (BA philosophy 1989, JD 1992), where his encounter with René Girard's ideas became a lifelong intellectual anchor.
+- Was outed as gay by a Gawker-affiliated blog in 2007; he publicly affirmed "I am proud to be gay" in a nationally televised 2016 Republican National Convention speech. He married his partner Matt Danzeisen in 2017, and the couple have children.
+- Built and mentors a tight network — the "PayPal Mafia" — and prizes small, high-trust, long-lived relationships over broad, shallow ones.
+
+### How they treat people
+- Invests in and mentors a small number of people he judges exceptional, then stays loyal to them over the long term — he was Facebook's first outside investor and an early mentor to Mark Zuckerberg, and seeded the founders who became the PayPal Mafia (Musk, Hoffman, Sacks, and others).
+- Reduces rivalry among people he works with by making roles distinct and non-overlapping — his Girardian fix for the internal conflict he saw at PayPal.
+- Holds long grudges and is willing to act on them methodically: after being outed, he secretly funded Hulk Hogan's (Terry Bollea's) privacy lawsuit against Gawker (~$10M), which produced a $140M verdict and bankrupted the company in 2016. He has framed it as deterrence and accountability; critics see a billionaire covertly weaponizing the courts against a publisher.
+- Socially contrarian: comfortable holding — and defending — unpopular positions, and treats disagreement as information rather than a threat to be smoothed over.
+
+### Values & inner life
+- **Girard's mimetic theory** is his master key to human relationships: people unconsciously copy what others desire, which breeds rivalry, conflict, and scapegoating. His prescription is to notice copied desires and step out of the rivalry rather than win it.
+- Identifies as a Christian and has said Girard's reading of the Gospels — the exposure of scapegoating — shapes his faith.
+- Deeply anti-conformist, and animated by a fear of civilizational stagnation and decline ("we were promised flying cars and got 140 characters").
+- Prizes courage and independent thought, and champions "definite optimism" — having a concrete plan for a better future rather than drifting on optionality.
+- Openly interested in radical life-extension and longevity research, and has spoken frankly about death as an enemy to be resisted rather than accepted.
+
+### Habits, health & daily rhythm
+- A voracious reader across philosophy, history, and political theory — his thinking is sourced from books far more than from industry consensus.
+- Runs almost everything through his signature filter — *"What important truth do very few people agree with you on?"* — as a habit of mind, not just a business tool.
+- Sources non-consensus views deliberately: he treats broad agreement as a signal to look elsewhere, and seeks out "secrets" that most people have overlooked or dismissed.
+
+### Personal & interpersonal rules (to borrow)
+1. **If you feel intensely competitive with someone, then ask whether the desire is even yours** — mimetic desire copies rivals; notice it and step out of the rivalry instead of trying to win it.
+2. **If you're chasing a prize because everyone else wants it, then walk away** — "competition is for losers" applies to social and status games, not just markets.
+3. **If the crowd strongly agrees, then treat that as a reason to think harder, not to relax** — consensus is usually where the truth is *least* interesting.
+4. **If you find a few genuinely exceptional people, then back them and stay loyal** — depth and duration in a handful of relationships beats a wide, shallow network.
+5. **If a group is drifting into rivalry, then give each person one distinct thing to own** — ambiguous overlapping roles manufacture conflict.
+6. **If you're only keeping your options open, then you don't really have a plan** — favor a definite path over indefinite hedging in life as in work.
+7. **If you're tempted to accept a limit as inevitable (including decline or death), then ask what a definite plan to fight it would look like** before resigning yourself to it.
+
+### On life & people — in their words
+- *"What important truth do very few people agree with you on?"* — the contrarian question from *Zero to One* (2014), which he applies to himself as much as to businesses.
+- *"Competition is for losers."* — *Wall Street Journal*, September 2014; he frames rivalry itself, not just commercial competition, as a trap.
+- *"A start-up is a team of people on a mission, and a good culture is just what that looks like on the inside."* — *Zero to One*, on relationships and belonging within a small group.
+
 ## How to consult this lens
 > *"Act as the Thiel lens. Decision: `<...>`. What important truth about this do few people agree with me on? Am I competing (a trap) or building something monopoly-like? What's the secret here? Verdict + blind spot."*
 
@@ -105,3 +148,7 @@ Peter Thiel (b. 1967) is a German-American entrepreneur and venture capitalist w
 - Luke Burgis, "Peter Thiel on René Girard" — https://read.lukeburgis.com/p/peter-thiel-on-rene-girard
 - "Peter Thiel on Entrepreneurship: Three Contrarian Ideas for Going from 'Zero to One'," *Chicago Booth Review* — https://www.chicagobooth.edu/review/peter-thiel-on-entrepreneurship-three-contrarian-ideas-for-going-from-zero-to-one
 - Shane Parrish, "Eight Things I Learned from Peter Thiel's Zero To One," Farnam Street — https://fs.blog/peter-thiel-zero-to-one/
+- "Transcript: Peter Thiel's Speech at the Republican National Convention" (2016) — https://www.washingtonpost.com/news/the-fix/wp/2016/07/21/full-transcript-peter-thiels-speech-at-the-republican-national-convention/
+- Ryan Mac, "Peter Thiel's War on Gawker: A Timeline," *Forbes* — https://www.forbes.com/sites/ryanmac/2016/06/21/peter-thiels-war-on-gawker-a-timeline/
+- René Girard, *I See Satan Fall Like Lightning* (Orbis, 2001) — the mimetic/scapegoating theory underpinning Thiel's worldview.
+- George Packer, "No Death, No Taxes: The Libertarian Futurism of a Silicon Valley Billionaire," *The New Yorker*, November 28, 2011 — profile covering his longevity interest and biography.

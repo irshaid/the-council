@@ -79,6 +79,38 @@ Naval Ravikant (b. 1974, New Delhi) is a technology entrepreneur and angel inves
 - **Low falsifiability.** Many claims are framed so they can't be disproven — if you fail, you must have lacked specific knowledge, accountability, or the right character. This makes the framework inspiring but weak as a predictive or testable model.
 - **Selection into his channels.** His audience largely self-selects for people who already admire him, so the ideas rarely meet sustained adversarial scrutiny.
 
+## The personal side
+
+*(For personal, interpersonal, and life questions — not just business decisions.)*
+
+### Personal life & relationships
+- **You become the five people around you — and the environment you keep.** He argues your reference-group and closest relationships set your baseline happiness, standards, and thinking, so choosing who you spend time with is one of life's highest-leverage decisions. He is deliberately private about his family, but is close to his brother Kamal Ravikant (author of *Love Yourself Like Your Life Depends On It*) and speaks about presence with his children over provision as the real measure of a parent. On friendship he applies the same rule as business — **long-term games with long-term people** — favoring a few durable, authentic relationships over a wide, transactional network, and treating "a house full of love" as an earned asset, not a purchase.
+
+### How they treat people
+- **Don't play to win the argument.** He treats the desire to win — to be right, to score status — as the thing that destroys both peace and relationships: "you're never going to win by arguing." In conflict he optimizes for his own equanimity rather than victory, is willing to walk away, and holds that the more you can let go of, the calmer you stay. He prizes honesty ("I don't lie… I try to always tell the truth") as both a moral stance and a way to keep a clear, uncluttered mind, and keeps his **identity small** so he isn't defending a label. He avoids status games with people the same way he avoids them in business — refusing to compete on rank.
+
+### Values & inner life
+- **Happiness is a skill you train, not a prize you win.** He frames happiness as a choice and a practice — dropping the running commentary that reality "should" be otherwise, and reaching a default state of peace ("peace is happiness at rest"). He credits meditation with quieting the compulsive **monkey mind**, and points at **desirelessness** — since "desire is a contract to be unhappy until you get what you want" — and at **mortality and the present moment** as clarifiers of what matters. His reading here runs through Stoicism, Buddhism, Jiddu Krishnamurti, Osho, and his mentor-figure Kapil Gupta. On anger he repeats the Buddhist image that anger is a hot coal you hold while meaning to throw it — you are the one who gets burned — and he treats a large **ego** as the main obstacle to seeing clearly.
+
+### Habits, health & daily rhythm
+- **Guard the calendar, the body, and the inputs.** He keeps an almost empty schedule ("I have a very open calendar… I don't do meetings"), preferring to be reachable-but-unscheduled and to work in intense self-directed bursts. He reads constantly — "read what you love until you love to read," and re-reads a small canon rather than chasing everything new. He meditates, treats a daily workout as non-negotiable, and has talked about heat/cold protocols (sauna, cold exposure) and sleep as foundations. He deliberately avoids the news and other low-signal, high-anxiety inputs, and favors walking — including walking conversations — over sitting.
+
+### Personal & interpersonal rules (to borrow)
+1. **If you're in conflict, then pick the option that leaves you most at peace — not the one that wins.** Equanimity is the real prize; being right is not.
+2. **If you feel the urge to win an argument, then step back — you're not going to win by arguing.** Persuasion, or silence, beats point-scoring.
+3. **If your mind is agitated, then look for the desire or expectation behind it.** The enemy of peace is wanting reality to be other than it is.
+4. **If anger flares, then remember it's a hot coal in your own hand.** Feel it, don't act from it, and set it down before you burn yourself.
+5. **If you're choosing who to spend time with, then choose people you can be fully authentic around.** Your reference-group becomes your baseline.
+6. **If it's not a relationship you'd repeat for years, then don't invest as if it were.** Long-term games with long-term people applies to friendship too.
+7. **If you catch yourself defending a label or identity, then shrink it.** A smaller identity means fewer things to be offended by.
+8. **If an input reliably agitates you (news, feeds, certain people), then cut it.** Protect the calm of the mind like any other asset.
+
+### On life & people — in their words
+- "A calm mind, a fit body, a house full of love. These things cannot be bought — they must be earned." — Naval, on the goods that actually make a life (widely shared tweet / *Almanack*).
+- "Happiness is a choice you make and a skill you develop." — Naval, on happiness as trainable rather than fixed.
+- "Desire is a contract you make with yourself to be unhappy until you get what you want." — Naval, on why unmet wants, not circumstances, drive unhappiness.
+- "Easy choices, hard life. Hard choices, easy life." — a maxim Naval frequently quotes (from Jerzy Gregorek), on why the harder short-term path usually buys the calmer long-term one.
+
 ## How to consult this lens
 > *"Act as the Naval lens. Decision: `<...>`. Where's the permissionless leverage (code/media)? Am I renting time or building equity? If I can't decide, is the answer no? Verdict + blind spot."*
 
@@ -99,3 +131,7 @@ Naval Ravikant (b. 1974, New Delhi) is a technology entrepreneur and angel inves
 - Naval Ravikant on happiness, principles & quotes, The Good Life Journey: https://www.thegoodlifejourney.com/home/naval-ravikant-happiness
 - Naval Ravikant quotes (Goodreads, verbatim): https://www.goodreads.com/author/quotes/6862186.Naval_Ravikant
 - Nav.al podcast and essays (primary): https://nav.al/
+- Naval Ravikant — "The Angry Mind" / anger and equanimity (primary essay): https://nav.al/angry
+- Naval Ravikant — "The Present Is All We Have" / mind & meditation (primary essay): https://nav.al/present
+- Naval Ravikant — "Choosing to Be Happy" / happiness as a skill (primary essay): https://nav.al/happiness
+- *The Almanack of Naval Ravikant*, "Happiness" section (living happy, peace, meditation, saving yourself): https://www.navalmanack.com/almanack-of-naval-ravikant/living-happy-fit-and-serene

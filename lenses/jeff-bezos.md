@@ -82,6 +82,52 @@ Bezos took a single insight — that on the internet you could serve customers a
 - **Big misses when he overrode signals.** The Fire Phone is the clearest case of conviction untethered from customer evidence — an expensive reminder that "right a lot" is not "right always."
 - **Concentration of judgment.** A culture built around one founder's taste and long-horizon bets is powerful but fragile; in practice it can suppress dissent even where "disagree and commit" is preached.
 
+## The personal side
+
+*(For personal, interpersonal, and life questions — not just business decisions.)*
+
+### Personal life & relationships
+- **Born to a teenage mother; raised by an adoptive father he claims fully.** Bezos was born Jeffrey Jorgensen in Albuquerque in 1964; his mother Jacklyn was 17 and her marriage to his biological father Ted Jorgensen ended early. When Jeff was four she married Miguel "Mike" Bezos, a Cuban refugee who adopted him. Bezos has said he thinks of Mike simply as "my father," not an adoptive one — a clue to how he treats chosen bonds as real bonds. (His biological father, tracked down years later by a journalist, reportedly hadn't known his son had become Jeff Bezos.)
+- **The ranch and Montessori marked how he relates to people.** The self-reliance drilled in by his grandfather ("you can always figure things out") and the deep-focus temperament noted in childhood show up interpersonally as low need for external validation and a habit of reasoning from first principles rather than deferring to authority or consensus.
+- **Marriage to and divorce from MacKenzie Scott.** He married MacKenzie (then a novelist, also at D.E. Shaw) in 1993, a year before founding Amazon; she was in the car for the cross-country drive when he drafted the plan. They had four children (three sons and a daughter adopted from China) and divorced in 2019 after 25 years. The split was public but conducted without visible acrimony; MacKenzie received roughly a quarter of the couple's Amazon stake and has since given away tens of billions, while Bezos publicly wished her well.
+- **Lauren Sánchez.** His relationship with Sánchez — a former TV anchor and licensed helicopter pilot — became public around the 2019 divorce; they became engaged in 2023 and married in Venice in 2025. She has been closely involved in Blue Origin's public-facing work.
+- **How he spends non-work time.** He guards family time deliberately (see the daily rhythm below), and in his 50s underwent a well-documented fitness transformation. His stated non-work passions cluster around space (Blue Origin) and long-term projects rather than conventional leisure.
+
+### How they treat people
+- **Direct, high-intensity, standards-first.** Bezos is known for holding a very high bar and probing hard in meetings — the silent-reading "study hall" exists partly so no one can bluff him. Biographers (notably Brad Stone) have reported cutting, sarcastic barbs delivered when he judged work sloppy; treat the specific one-liners as reported rather than confirmed, but the pattern of blunt, exacting feedback is well attested.
+- **Handles disagreement by arguing then committing.** "Disagree and commit" is as much an interpersonal rule as a business one: he expects people to fight hard for their view, then get fully behind the decision without sulking or re-litigating — and he holds himself to the same when he loses the argument.
+- **The famous laugh and public persona.** His booming, unmistakable laugh is a signature — disarming in public, and by many accounts a genuine tell of delight rather than performance. The affable public Bezos coexists with a demanding private operator; both are real.
+- **Loyalty runs to the mission and to standards, not to comfort.** He redeploys people rather than discarding them after failures (Fire Phone talent moved to devices like Echo), but he is candidly hard-nosed where he thinks the customer or the long-term is at stake.
+
+### Values & inner life
+- **"We are what we choose."** His deepest stated belief is that character is built from choices, not gifts — intelligence is luck; kindness, decency, and courage are decisions you make repeatedly. This is his answer to what a life means.
+- **Mortality and legacy via the long view.** He funded the 10,000-Year Clock (the Clock of the Long Now), buried in a Texas mountain, as a physical argument for long-term thinking and for widening humanity's time horizon beyond a single lifetime.
+- **Blue Origin as his purpose bet.** He has said space is the most important work he is doing — the goal being millions of people living and working in space and moving heavy, polluting industry off Earth to preserve it. The company motto, *Gradatim Ferociter* ("step by step, ferociously"), captures his temperament: patient about timelines, aggressive about effort.
+- **Money and lifestyle.** He treats wealth largely as fuel for invention and for space; his frugality lore (the door-desk) is corporate mythology more than personal asceticism, but the underlying value — resourcefulness over indulgence — is genuine and traces to the ranch.
+- **How he handles failure and criticism.** Emotionally, he reframes failure as the unavoidable price of invention rather than as shame, which lets him absorb public misses (the Fire Phone) without flinching. He courts being "misunderstood for long periods" and treats disconfirming views as information, not attack.
+
+### Habits, health & daily rhythm
+- **Slow, unscheduled mornings.** He has described "puttering" in the morning — reading the newspaper, drinking coffee, and having breakfast with his children — and deliberately not scheduling early meetings.
+- **High-IQ work before lunch.** He books his hardest, highest-stakes decisions for late morning, reasoning that his judgment fades by afternoon; anything still hard by 5 p.m. he'd rather sleep on and take up at 10 a.m.
+- **Eight hours of sleep, protected.** He treats a full night's sleep as a decision-quality tool, not a luxury: better rest means better thinking, and a senior leader is paid for a few high-quality decisions, not many tired ones.
+- **Family dinner and small rituals.** He guards dinner with family and has said he does the dishes afterward, calling it one of the most attractive things he does — a small tell of how he thinks about partnership and ordinary domestic contribution.
+- **Physical fitness.** In his 50s he visibly transformed his fitness, part of a broader pattern of managing his own energy as deliberately as his calendar.
+
+### Personal & interpersonal rules (to borrow)
+1. **If you're judging your own or someone's worth, then weigh choices over gifts** — talent, looks, and IQ are luck; kindness, effort, and integrity are the decisions that actually define a person.
+2. **If a choice is kind but harder than the clever one, then choose kind** — being clever is easy because it's a gift; being kind is a choice, and the harder choice is usually the one worth making.
+3. **If you're facing a hard personal or life fork, then run regret-minimization** — project yourself to age 80 and pick the path you'd least regret not trying; the odds are unknowable, but the regret is.
+4. **If you disagree with someone you respect, then argue fully, then commit fully** — don't fake agreement to keep the peace, and don't keep re-fighting a settled decision; give it your real backing.
+5. **If you've failed publicly, then own it plainly and keep inventing** — treat the miss as the cost of trying big things, not as something to hide; the wins are meant to dwarf the losses.
+6. **If a decision is genuinely hard late in the day, then sleep on it** — protect your rest and make consequential calls when your mind is freshest, not when you're depleted.
+7. **If you want to protect a relationship, then protect the time for it** — schedule around family and small shared rituals deliberately, because a light, guarded calendar is what makes presence possible.
+8. **If you feel pressure to be understood right now, then be willing to be misunderstood for a while** — conviction on a long horizon means enduring skepticism, in life as in business, until the results speak.
+
+### On life & people — in their words
+- "Cleverness is a gift, kindness is a choice. Gifts are easy — they're given after all. Choices can be hard." — Princeton University Baccalaureate address, 2010 ("We are what we choose").
+- "In the end, we are our choices. Build yourself a great story." — Princeton University Baccalaureate address, 2010.
+- "I've made billions of dollars of failures at Amazon.com. Literally billions." — Bezos on failure as the price of invention (2014). *(Also in Notable quotes; his defining line on absorbing failure without shame.)*
+
 ## How to consult this lens
 > *"Act as the Bezos lens. Decision: `<...>`. Is this a one-way or two-way door? What does working-backwards and regret-minimization say? Verdict + blind spot."*
 
@@ -101,3 +147,5 @@ Bezos took a single insight — that on the internet you could serve customers a
 - [A Wealth of Common Sense — The Jeff Bezos Regret Minimization Framework](https://awealthofcommonsense.com/2016/10/the-jeff-bezos-regret-minimization-framework/)
 - [Quote Investigator — origin of "Your margin is my opportunity"](https://quoteinvestigator.com/2019/01/13/margin/)
 - [Founders' Tribune — passages from Jeff Bezos's shareholder letters](https://www.founderstribune.org/p/10-passages-from-jeff-bezos-s-shareholder-letters)
+- [Princeton University — "We are what we choose," Jeff Bezos 2010 Baccalaureate remarks (gifts vs. choices, kindness vs. cleverness)](https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks)
+- [Academy of Achievement — Jeff Bezos interview (childhood, grandfather's ranch, family, regret-minimization)](https://achievement.org/achiever/jeffrey-p-bezos/)

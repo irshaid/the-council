@@ -82,6 +82,51 @@ Hormozi built his wealth by turning brick-and-mortar gyms around in person, then
 - **Domain overreach.** His confident, universalized tone can imply the frameworks apply everywhere; treat pronouncements outside offers/leads/acquisition (e.g. life philosophy, macro claims) as opinion, not doctrine.
 - **Aggressive persuasion tactics.** Scarcity and urgency, pushed hard, shade into manipulation; borrow the structure, keep the honesty.
 
+## The personal side
+
+*(For personal, interpersonal, and life questions — not just business decisions.)*
+
+### Personal life & relationships
+- **Leila is the center.** His wife and business partner Leila Hormozi is co-founder and CEO of Acquisition.com; he frames her as the operator and integrator to his marketing/visionary role, and describes their marriage and company as inseparable — they built both from near-zero together. He has said publicly he married up and that partnering with her was the highest-leverage decision of his life.
+- **Starting over broke.** After netting ~$80K on his gyms and losing nearly all of it in a failed partnership, he was back to roughly zero at 26 — a period he speaks about openly as formative rather than shameful.
+- **Iranian-American background.** His father is an Iranian immigrant physician; Hormozi has discussed the tension of a conventional-professional path expected of him (he worked briefly as a management consultant, the "respectable" job) versus quitting to sell gym memberships — a break that strained the relationship before later reconciliation. *(Details as he's told them; treat specifics as self-reported.)*
+- **No kids, by choice.** He and Leila have said publicly and repeatedly that they've chosen not to have children, framing it as a deliberate alignment of their life around building and their partnership rather than an accident.
+
+### How they treat people
+- **Blunt, high-candor.** His default register is "hard truths" — he'd rather tell you the uncomfortable thing than protect your feelings, and treats candor as a form of respect.
+- **Standards over comfort in hiring/firing.** He talks about hiring slowly against clear standards and being willing to part with people who don't meet them; loyalty to the mission and to Leila and the team, but not at the expense of the standard.
+- **Long-term games, reputation compounds.** He explicitly frames reputation as a compounding asset — do right by people because the game repeats — and points to the give-everything-away model as reputation-building at scale.
+- **Generosity via free content.** He treats publishing his entire playbook for free as a way of serving a large audience up front, not just a funnel; the generosity is real even where it's also strategic.
+
+### Values & inner life
+- **Work ethic as identity.** For Hormozi, work is not a means to leisure — it *is* the point; he describes building as the thing that gives his life meaning, and is candid that this is a personal choice, not a prescription.
+- **Discipline over motivation, volume over intensity.** He's dismissive of motivation as unreliable and elevates discipline, repetition, and sheer volume ("volume negates luck") as what actually produces outcomes.
+- **Discomfort tolerance.** A recurring theme: the person who can sit with the most discomfort — boredom, delayed gratification, hard conversations — wins over a long horizon.
+- **Insecurity and haters.** He speaks openly about his own insecurity and about ignoring critics; his stance is roughly that other people's opinions are noise and that your reaction is your own responsibility — a stoic-flavored locus-of-control view.
+- **Failure as tuition.** Having lost nearly everything before Gym Launch, he reframes failure as data and cost-of-entry rather than verdict.
+
+### Habits, health & daily rhythm
+- **Fitness discipline.** A lifelong lifter with a bodybuilding-influenced approach to training and diet; he uses physical discipline as both a keystone habit and a public proof of his "discipline" thesis.
+- **Extreme focus / saying no.** He's loud about eliminating distraction and declining opportunities — the same "focus on one constraint" logic applied to his own calendar and attention.
+- **Content-creation routine.** High-volume, repurpose-everything content production is a daily operating rhythm, treated like reps rather than inspiration.
+- **Reads and studies constantly.** He credits heavy reading and note-taking as inputs to his frameworks.
+- **Minimalism despite wealth.** He and Leila have described living comparatively simply relative to their net worth, keeping lifestyle low and reinvesting — consistent with the delayed-gratification value.
+
+### Personal & interpersonal rules (to borrow)
+1. **If you're waiting to feel motivated, act on discipline instead** — motivation is a fair-weather input; build the behavior so it doesn't depend on mood.
+2. **If an outcome feels lucky or out of reach, increase the volume** — more reps, attempts, and at-bats make a good result statistically inevitable, in relationships and self-work as much as business.
+3. **If a situation is uncomfortable but right, train yourself to tolerate the discomfort** — the person who can sit with the most discomfort over the longest horizon wins.
+4. **If someone criticizes or dislikes you, treat your reaction as your responsibility, not theirs** — your calm is your job; haters are noise you don't have to route through.
+5. **If a choice is between short-term ease and long-term reputation, choose the long game** — reputation compounds because the game repeats; play accordingly.
+6. **If you want the outcome, fall in love with the boring repetition that produces it** — delayed gratification and consistency beat intensity and novelty.
+7. **If a relationship or hire doesn't meet the standard, hold the standard** — kindly, but don't lower the bar to avoid the hard conversation.
+8. **If you've failed badly, treat it as tuition and re-enter the game** — the reset near zero is data, not a verdict.
+
+### On life & people — in their words
+- "Discipline is the highest form of self-love." — a recurring theme across his social/podcast content on why self-respect shows up as consistent action, not feelings. *(Verify exact wording against source.)*
+- "Volume negates luck." — his signature line, applied as much to personal effort and skill-building as to sales (*The Game* podcast).
+- "You can either be right or be rich." — on dropping ego to accept reality, a stance he generalizes beyond pricing to arguments and relationships.
+
 ## How to consult this lens
 > *"Act as the Hormozi lens. Decision: `<...>`. What's my one binding constraint? How would you turn this into a Grand Slam Offer, and what daily volume does the Rule of 100 demand? Verdict + blind spot."*
 
@@ -102,3 +147,7 @@ Hormozi built his wealth by turning brick-and-mortar gyms around in person, then
 - ["Volume Negates Luck" — The Game with Alex Hormozi, Ep. 267 (Apple Podcasts)](https://podcasts.apple.com/au/podcast/volume-negates-luck-ep-267/id1254720112?i=1000505080953)
 - [Alex Hormozi net worth & business breakdown (Hampton)](https://joinhampton.com/blog/alex-hormozi-net-worth-200-million-smartest-business-strategies)
 - [How Alex Hormozi made his money (Financhill)](https://financhill.com/blog/investing/how-did-alex-hormozi-make-his-money)
+- [Leila Hormozi — Acquisition.com (CEO bio & partnership)](https://www.acquisition.com/bio-leila)
+- [Alex Hormozi — Acquisition.com official bio](https://www.acquisition.com/bio-alex)
+- [The Game with Alex Hormozi — podcast (discipline, discomfort, mindset episodes)](https://podcasts.apple.com/us/podcast/the-game-w-alex-hormozi/id1254720112)
+- [Alex Hormozi's YouTube channel (personal philosophy & Q&A content)](https://www.youtube.com/@AlexHormozi)

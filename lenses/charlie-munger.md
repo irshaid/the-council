@@ -85,6 +85,47 @@ Charlie Munger (1924–2023) was an American investor, lawyer, and architect who
 - **Missed the businesses he could have understood.** He and Buffett openly admitted being slow to Google, Amazon, and other winners — the circle-of-competence discipline that avoids blowups can also ossify into an excuse for missing genuine, learnable change.
 - **Survivorship and the singular Berkshire.** The philosophy is validated largely by one extraordinary partnership operating in a specific era with structural advantages (float, reputation, permanent capital). Generalizing from an n of one risks mistaking a unique context — and a lot of favorable timing — for a universally repeatable method.
 
+## The personal side
+
+*(For personal, interpersonal, and life questions — not just business decisions.)*
+
+### Personal life & relationships
+- Born in Omaha, Nebraska (1924), Munger studied at Michigan and Caltech before Harvard Law (*magna cum laude*, 1948). His first marriage, to Nancy Huggins, ended in divorce in 1953; soon after, his young son Teddy died of leukemia at age nine — a devastation he lived through while broke and starting over. In 1956 he married Nancy Barry Borthwick, a partnership of more than half a century until her death in 2010; between them they raised a blended family of eight children and stepchildren. A botched cataract operation around 1980 cost him the sight in one eye, later removed. Threaded through all of it was his six-decade friendship and business partnership with Warren Buffett, whom he met in Omaha in 1959.
+- He built his life back deliberately after tragedy — remarrying, expanding his family, and channeling grief into work, reading, and duty rather than self-pity.
+
+### How they treat people
+- **Blunt, funny, and honest to a fault.** He preferred plain, sometimes brutal candor to flattery, and thought reliability and trustworthiness were the qualities that make someone worth dealing with.
+- **The Buffett partnership as a model.** Two strong, complementary minds who trusted each other completely, argued honestly, and shared credit — his template for how a great working relationship should run.
+- **Deserve the relationships you want.** He held that the surest way to be trusted, loved, and dealt with fairly is to *be* trustworthy and fair — reputation is earned, not demanded.
+- **Refuse envy and resentment.** He treated envy, resentment, and self-pity as poisons that ruin the person carrying them, and tried to keep them out of his dealings with others.
+
+### Values & inner life
+- **Stoic resilience.** He absorbed the death of his son, a divorce, and the loss of an eye without collapsing into bitterness, believing that self-pity gains nothing and that one has, in his phrasing, an almost unreasonable duty to keep everything together for the people who depend on you.
+- **Wisdom as a moral duty.** Clear thinking and lifelong learning were, to him, obligations rather than options — a person owes it to others to be rational and competent.
+- **Avoid envy above almost all else.** In his words it is "a really stupid sin because it's the only one you could never possibly have any fun at."
+- **Know your own biases.** His catalog of the psychology of human misjudgment was as much a tool for governing himself as for reading markets.
+
+### Habits, health & daily rhythm
+- **Be a learning machine.** "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines" — he credited compounding knowledge over a lifetime for most durable success.
+- **Read relentlessly.** He described himself and Buffett as looking like "a book with a couple of legs sticking out," and treated wide reading as the daily engine of good judgment.
+- **Models and mentors.** Benjamin Franklin was his archetype of the practical, self-improving polymath; architecture was a lifelong hobby he pursued as an amateur designer.
+- **Aim at a well-lived life, by inversion.** He judged a good life the way he judged a business — by cataloging what reliably ruins one and steering clear.
+
+### Personal & interpersonal rules (to borrow)
+1. **If you want something — trust, love, a good reputation — then deserve it first;** be reliable and honest, and the rest tends to follow.
+2. **If envy, resentment, or self-pity creeps in, cut it out ruthlessly;** it is all pain and no payoff.
+3. **If you're facing how to live well, invert it** — figure out precisely what would make life miserable, then don't do those things.
+4. **If a day passes, spend it trying to be a little wiser than you woke up** — knowledge and character compound.
+5. **If you choose the people around you, choose high-quality ones** and become the kind of person the best people want to deal with.
+6. **If disaster strikes, assign yourself the duty of holding things together** for those who depend on you, without wallowing.
+7. **If you catch yourself rationalizing, run the bias checklist on yourself first** — incentives and self-interest corrupt your own reasoning before anyone else's.
+
+### On life & people — in their words
+- *"To get what you want, you have to deserve what you want. The world is not yet a crazy enough place to reward a whole bunch of undeserving people."* — USC Law School commencement address (2007).
+- *"Spend each day trying to be a little wiser than you were when you woke up."* — USC Law School commencement address (2007).
+- *"I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines."* — USC Law School commencement address (2007).
+- *"Envy is a really stupid sin because it's the only one you could never possibly have any fun at. There's a lot of pain and no fun. Why would you want to get on that trolley?"* — attributed to Munger, widely quoted from his talks and *Poor Charlie's Almanack*.
+
 ## How to consult this lens
 > *"Act as the Munger lens. Decision: `<...>`. Invert it — what would guarantee failure here? Is this inside my circle of competence? What are the incentives, and which biases might be corrupting my read? Is there a durable moat, and what's the opportunity cost? Verdict + the stupidity to avoid."*
 
@@ -107,3 +148,6 @@ Charlie Munger (1924–2023) was an American investor, lawyer, and architect who
 - Shane Parrish, "Mental Models: The Best Way to Make Intelligent Decisions," Farnam Street — https://fs.blog/mental-models/
 - "A Lesson on Elementary, Worldly Wisdom" (USC Business School, 1994), via Farnam Street — https://fs.blog/a-lesson-on-worldly-wisdom/
 - Tren Griffin, *Charlie Munger: The Complete Investor* (Columbia Business School Publishing, 2015).
+- Janet Lowe, *Damn Right! Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger* (John Wiley & Sons, 2000) — biography covering his upbringing, first marriage and divorce, his son Teddy's death, and the loss of his eye.
+- David Clark, *The Tao of Charlie Munger* (Scribner, 2017) — sourced compilation of his views on life, character, and relationships.
+- "Charlie Munger's Life Was About Way More Than Money," *The Wall Street Journal* / various obituaries (November 2023) — accounts of his family life and personal resilience.

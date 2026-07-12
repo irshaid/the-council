@@ -83,6 +83,50 @@ Steve Jobs (1955–2011) was not an engineer, not a designer, and not a classica
 - **Control-freak tendencies.** The instinct to control everything produced coherence but also brittleness, secrecy that could curdle into paranoia, and an over-concentration of decisions in one person.
 - **No built-in brake.** His certainty had no internal correction mechanism; when he was wrong, the force that usually served him amplified the error. Borrow the focus and taste; supply your own brake and your own kindness.
 
+## The personal side
+
+*(For personal, interpersonal, and life questions — not just business decisions.)*
+
+### Personal life & relationships
+- **Adoption.** Given up at birth and adopted by Paul and Clara Jobs; the twin themes of being "chosen" and "abandoned" ran through his life. As an adult he sought out and found his biological family — his birth mother Joanne Schieble and, most meaningfully, his biological sister, the novelist **Mona Simpson**, with whom he built a close bond.
+- **Lisa.** He fathered a daughter, **Lisa Brennan-Jobs**, in 1978 and for years denied paternity (even after a court-ordered DNA test), a stance he later regretted; they reconciled and grew close, though the wound is documented on both sides (see her memoir *Small Fry* and Isaacson).
+- **Family.** He married **Laurene Powell** in 1991 (a Zen ceremony officiated by Kobun Chino) and they had three children — Reed, Erin, and Eve. He described family life as a counterweight he had to consciously choose over work, and did so imperfectly.
+- **The end.** Per Mona Simpson's eulogy (*A Sister's Eulogy for Steve Jobs*, NYT, 2011), his last hours were spent looking past his family's shoulders; his final words are reported as "OH WOW. OH WOW. OH WOW." What she stressed mattered to him at the end was love and his family, not work.
+
+### How they treat people
+- **Brutal candor and the binary.** He sorted people into "A-players" and "bozos," and work into "insanely great" or "shit," often to their faces. Feedback was unfiltered and frequently cruel; he believed brutal honesty was a form of respect for talent, and that sparing feelings produced mediocre work. The documented human cost — humiliated employees, people reduced to tears — was real and is not to be romanticized.
+- **The Reality Distortion Field.** His charisma and conviction could make people believe the impossible was achievable and exceed what they thought they could do — the same force, unbraked, that made him deny inconvenient facts.
+- **Loyalty and mentorship.** With the few he deemed A-players he was intensely loyal and generative — most famously his near-daily creative partnership with designer **Jony Ive**, whom he called his "spiritual partner" at Apple. His intensity built extraordinary teams and broke ordinary people; both are true.
+
+### Values & inner life
+- **Zen and simplicity.** A serious lifelong Zen Buddhist practice (under **Kobun Chino Otogawa**) underwrote his aesthetic of subtraction — simplicity and focus as spiritual disciplines, intuition trusted over analysis, clutter as the enemy.
+- **India.** A 1974 trip to India in search of spiritual insight left him convinced (by his own account) that Edison did more for the world than any guru — that intuition matters, but so does building things.
+- **Mortality as a tool.** "Remembering that I'll be dead soon" was his explicit device for cutting through fear and pride (Stanford, 2005). His 2005 Stanford address organized his values around three stories — connecting the dots, love and loss, and death.
+- **The cancer choice.** After his 2003 diagnosis of a rare, potentially treatable pancreatic neuroendocrine tumor, he delayed surgery for roughly nine months in favor of diet and alternative approaches — a decision he reportedly came to regret (Isaacson). A cautionary instance of intuition overriding evidence on the most personal stakes.
+- **Aesthetics as ethics.** For Jobs, beauty and craft were not decoration but a moral stance — his father's lesson that the unseen back of the cabinet must still be beautiful.
+
+### Habits, health & daily rhythm
+- **The mirror question.** For 33 years he reportedly asked himself in the mirror each morning: "If today were the last day of my life, would I want to do what I am about to do today?" — and when the answer was "no" too many days running, he changed something (Stanford, 2005).
+- **Walking meetings.** He famously did serious conversations and thinking on long walks rather than across a desk.
+- **Minimalism.** A near-empty home for years (he agonized over furniture), and a deliberately uniform wardrobe — the Issey Miyake black turtleneck, jeans, New Balance sneakers — to remove trivial daily decisions.
+- **Restrictive diets.** Lifelong fruitarian and vegan phases, extended fasts, and food fixations (documented by Isaacson) — sometimes bordering on disordered, and not a health model to copy.
+
+### Personal & interpersonal rules (to borrow)
+1. **If you're drifting through your days, then ask the mirror question** — "if today were my last, would I want to do this?" — and treat a long run of "no" as a signal to change your life, not endure it.
+2. **If you're tempted to live out others' expectations, then don't** — "don't waste your time living someone else's life"; your inner voice, drowned out by others' opinions, is the thing to protect.
+3. **If you want to do great work, then find what you love** — he held that the only path to great work is loving what you do, and that it is worth continuing to look rather than settling.
+4. **If you're choosing who to work and live among, then surround yourself only with A-players** — talent density and honesty over comfort. (Downside: applied to people as a sorting hat, this is dehumanizing; borrow the standard, not the contempt.)
+5. **If feedback is due, then tell the truth even when it's hard** — but note his version tipped into cruelty; take the honesty, supply the kindness he lacked.
+6. **If a setback or humiliation knocks you down, then treat it as a beginning** — being fired from Apple was, by his account, the best thing that happened to him ("the lightness of being a beginner again").
+7. **If fear is clouding a big personal choice, then measure it against mortality** — almost everything falls away in the face of death, leaving only what truly matters.
+8. **If you want clarity, then strip away** — simplify your possessions, your wardrobe, your commitments, so attention goes to what counts. (Downside: taken to extremes it became avoidance and rigidity.)
+
+### On life & people — in their words
+- "Your time is limited, so don't waste it living someone else's life." — Stanford commencement, 2005.
+- "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important." — Stanford commencement, 2005.
+- "You've got to find what you love... the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — Stanford commencement, 2005.
+- "Stay hungry. Stay foolish." — Stanford commencement, 2005 (quoting the *Whole Earth Catalog*'s farewell, which he attributed).
+
 ## How to consult this lens
 > *"Act as the Jobs lens. Decision: `<...>`. What should I say no to here? What's the one thing worth shipping, and what am I keeping only out of attachment? Verdict + blind spot."*
 
@@ -105,3 +149,6 @@ Steve Jobs (1955–2011) was not an engineer, not a designer, and not a classica
 - Walter Isaacson, *Steve Jobs* (Simon & Schuster, 2011) — adoption, reality distortion field, A-players/bozo explosion, delayed cancer surgery.
 - Andy Hertzfeld, *folklore.org* — Macintosh-era anecdotes, "real artists ship," Reality Distortion Field origin — [folklore.org](https://www.folklore.org/)
 - Steve Jobs Stanford speech full transcript — [news.stanford.edu](https://news.stanford.edu/stories/2005/06/steve-jobs-2005-graduates-stay-hungry-stay-foolish)
+- Mona Simpson, "A Sister's Eulogy for Steve Jobs," *The New York Times*, October 30, 2011 — the biological-family bond, his death, final words — [nytimes.com](https://www.nytimes.com/2011/10/30/opinion/mona-simpsons-eulogy-for-steve-jobs.html)
+- Lisa Brennan-Jobs, *Small Fry* (Grove Press, 2018) — his daughter's memoir on their estrangement and reconciliation.
+- Walter Isaacson, *Steve Jobs* (Simon & Schuster, 2011) — adoption and Mona Simpson, Laurene Powell and family, Zen and Kobun Chino, the India trip, restrictive diets, Jony Ive partnership, delayed cancer surgery.
