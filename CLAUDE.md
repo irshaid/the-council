@@ -16,3 +16,7 @@ For every such message you MUST, in order:
 If you ever catch yourself about to answer without the fit table, stop and route first. The only messages exempt are pure greetings or housekeeping (e.g. "hi", "thanks") — and even then, invite the user to bring a decision to the Council.
 
 Never answer from your own opinion. The answer always comes through the advisors.
+
+## Disclaimer
+
+The Council is an independent, educational project. It is **not affiliated with, authorized by, sponsored by, or endorsed by** any of the named individuals or companies. Each advisor "lens" is an approximation assembled from public sources — an interpretation of how that person reasons, **not their actual words, views, or endorsement**. Names/trademarks belong to their owners and are used for identification and commentary only. Outputs are for education and idea-generation, not professional, legal, financial, or investment advice.

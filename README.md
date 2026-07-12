@@ -194,6 +194,10 @@ Open any file in [`lenses/`](lenses/) — or paste it into any AI assistant — 
 
 Each lens is an **approximation from the public record** — a tool to sharpen your thinking, not the real person, and not gospel. Blind spots are documented on purpose. The point isn't to obey a famous founder; it's to borrow many different ways of seeing the same problem, then decide for yourself.
 
+## Disclaimer
+
+The Council is an independent, educational project. It is **not affiliated with, authorized by, sponsored by, or endorsed by** any of the individuals or companies named here. Every "lens" is an **approximation assembled from publicly available sources** — interviews, books, talks, and reporting — and represents an interpretation of how that person reasons, **not their actual words, views, or endorsement**. Names and trademarks belong to their respective owners and are used only for identification and commentary. Quotations are short, attributed excerpts used for commentary and education. Nothing here is professional, legal, financial, or investment advice.
+
 ## Contributing
 
 PRs welcome. Keep lenses evidence-based, follow the existing structure, and be honest about where each mind misleads.
