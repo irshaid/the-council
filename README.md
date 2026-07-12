@@ -1,6 +1,6 @@
 # The Council
 
-Thinking lenses of ten founders and operators — how they think and decide — written so you can put a real decision in front of them. Works great with an AI assistant: paste a lens and ask it to pressure-test your call.
+Thinking lenses of ten founders and operators — how they think and decide — plus an **orchestrator** that routes any question to the right advisor(s). Bring a decision; The Council shows you which of the ten are best suited to answer (with a fit score), answers in their voices, and tells you where they disagree.
 
 ## The lenses
 - **[Jeff Bezos](lenses/jeff-bezos.md)** — deciding under uncertainty; reversible vs. irreversible calls.
@@ -14,12 +14,32 @@ Thinking lenses of ten founders and operators — how they think and decide — 
 - **[Larry Fink](lenses/larry-fink.md)** — risk, capital allocation, and building an institution.
 - **[Peter Thiel](lenses/peter-thiel.md)** — contrarian strategy and monopoly.
 
-## How to use
-Pick a real decision. Open a lens (or paste it into your AI assistant) and ask:
+## Install on Claude
+
+**Claude Code (recommended):**
+```bash
+git clone https://github.com/irshaid/the-council.git
+cd the-council
+claude
+```
+The included `CLAUDE.md` turns Claude into the Council orchestrator automatically. Just ask a question.
+
+**Claude.ai / Claude Desktop (Projects):**
+1. Create a new Project.
+2. Paste the contents of [`orchestrator.md`](orchestrator.md) into the Project's custom instructions.
+3. Upload the `lenses/` files to the Project knowledge.
+4. Ask any question in the Project.
+
+## How it works
+Ask anything — *"Should I raise prices or add a tier?"*, *"Do I hire now or wait?"* — and the orchestrator:
+1. **Shows a fit table** — each advisor scored 0–100% on how suited they are to *this* question, with a one-line reason.
+2. **Consults the top advisors** — answering in each one's voice: how they read it, their move, their blind spot.
+3. **Synthesizes** — where they agree, where they clash, and the sharpest takeaway.
+
+## Consult a single lens manually
+Open any file in [`lenses/`](lenses/) (or paste it into any AI assistant) and ask:
 
 > *"Act as this lens. Here's my decision: `<...>`. Give me your heuristics, your verdict, and the one blind spot I should watch."*
-
-Run 2–4 lenses on the same decision to see where they disagree.
 
 Each lens is an approximation from the public record — a tool to sharpen your thinking, not the real person. Every lens lists its own blind spots.
 
