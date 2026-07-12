@@ -52,7 +52,8 @@ Around the algorithm sit consistent habits: **hardcore, very long hours** and an
 - **First principles vs. reasoning by analogy** — the core lens; boil to fundamental truths, reason up.
 - **"The best part is no part; the best process is no process."** Deletion as the default move (attributed to Musk in Isaacson's biography). The "idiot index" — his term for the ratio of a component's finished cost to the cost of its raw materials; a high ratio signals bad design or a supplier to be replaced.
 - **The algorithm (the 5 ordered steps above)** as a repeatable operating procedure.
-- **Physics as the arbiter.** When experts and physics disagree, trust physics; expertise often encodes historical constraints, not physical ones.
+- **Physics as the arbiter.** When experts and physics disagree, trust physics; expertise often encodes historical constraints, not physical ones. He frames this bluntly (Lex Fridman #400, 2023): physics is *the law* and everything else is only *a recommendation* — and he insists the tools of physics are really just disciplined critical thinking that can be applied to any arena of life, not only engineering.
+- **Minimize being "confidently wrong."** In the same conversation he argues the goal isn't to be right every time — it's to reduce how often you are *confidently* wrong. Calibrating your certainty to the evidence matters more than the raw hit rate, because confident errors are the ones that cost you.
 - **Thinking in probabilities of large outcomes.** He explicitly reasons about the *expected value of civilization-scale outcomes* (e.g., "does this raise the probability that humanity becomes multi-planetary / sustainable?"), which justifies low-probability, high-payoff bets.
 
 ## Signature decisions / case studies
@@ -87,6 +88,7 @@ Read this section as the most important one — the failure modes are as systema
 - **Extreme demands and "hardcore" culture.** He expects total commitment and very long hours; famously asked Twitter/X staff to commit to "extremely hardcore" work or leave, and cut headcount by roughly 80%. Abrupt firings are a recurring pattern across his companies.
 - **Blunt, combative, often public.** He gives direct, sometimes brutal negative feedback, spars publicly on X, and can turn adversarial fast with critics, journalists, regulators, and former allies. Isaacson documents a recurring "demon mode" — a cold, harsh state under stress.
 - **A small inner circle.** He runs on intense loyalty to a few trusted lieutenants and family members while churning through others; proximity and usefulness matter more than tenure.
+- **Capable of wanting reconciliation.** Despite the combativeness, he can openly wish to repair a broken relationship: in Lex Fridman #400 (2023), reflecting on his fallout with Google co-founder Larry Page over AI, he says he would like to be friends with Larry again. A counterpoint to the "cuts people off cold" pattern — the estrangements aren't always something he is at peace with.
 - **A documented human cost.** Employees describe burnout, fear, and whiplash reversals alongside genuine inspiration and career-defining work. Both are real; the intensity that ships rockets also grinds people down.
 
 ### Values & inner life
@@ -94,11 +96,14 @@ Read this section as the most important one — the failure modes are as systema
 - **Channeling stress into work.** He has said he copes with distress by working more, not less; crises pull him deeper into the factory rather than away from it.
 - **Candor about mental health.** He has spoken publicly about emotional lows and highs (including on Joe Rogan's podcast and in interviews), and self-identifies as having Asperger's/being on the autism spectrum (stated in his 2021 *Saturday Night Live* monologue). Treat clinical specifics as self-reported, not diagnosed.
 - **Risk appetite forged in 2008.** The near-simultaneous near-bankruptcy of Tesla and SpaceX — surviving on "single-digit weeks" of cash — is as formative personally as it is professionally: it hard-wired an unusual tolerance for existential stakes.
+- **Suffering as possibly necessary.** In Lex Fridman #400 (2023) he questions whether a world engineered to remove all suffering would actually be good, asking whether you can appreciate the highs without the lows — and he even wonders aloud why hatred evolved, guessing there may be some reason for it. He resists the frictionless-utopia framing; for him meaning seems bound up with contrast and struggle.
 
 ### Habits, health & daily rhythm
 - **Time-blocking in five-minute slots.** He is reported to schedule his day in ~5-minute increments across multiple companies, context-switching between them rapidly.
 - **On-site under pressure.** During crises (Model 3 "production hell," the Twitter takeover) he slept at the factory/office and worked ~100–120-hour weeks, expecting nearby staff to match him.
 - **Decompression via gaming.** He unwinds with video games (e.g., *Polytopia*, *Elden Ring*, *Diablo*), which he has cited as a genuine outlet.
+- **Gaming as emotional regulation — his own framing.** In Lex Fridman #400 (2023) he gives the outlet an unusually candid gloss: **"killing the demons in a video game calms the demons in my mind."** It reads less as a hobby than as a valve for internal turmoil he otherwise processes through work — one of his rare direct acknowledgments of inner unrest.
+- **Living with chronic pain (flagged).** In the same conversation he mentions a squashed C5–C6 disc and having taken the muscle relaxant Soma for it, noting the trade-off: it dulls the pain but at the cost of mental sharpness. A reminder that his relentless output runs on top of ongoing physical pain; treat medical specifics as self-reported.
 - **Health claims (flagged).** He has publicly mentioned using Ozempic/Wegovy-type medication for weight and fasting periodically; treat diet/health specifics as self-reported and lightly documented.
 
 ### Personal & interpersonal rules (to borrow)
@@ -144,3 +149,4 @@ Quotes below are verbatim and attributed. Musk paraphrases himself often, so som
 - Vivian Jenna Wilson name/gender change and estrangement — Wikipedia: https://en.wikipedia.org/wiki/Vivian_Jenna_Wilson
 - *Saturday Night Live* monologue (Asperger's self-identification), May 2021 — NBC/SNL: https://www.youtube.com/watch?v=q9lHGT3STdM
 - "Extremely hardcore" ultimatum and ~80% Twitter/X headcount cut — coverage: https://www.theverge.com/2022/11/16/23463107/elon-musk-twitter-email-ultimatum-hardcore-employees
+- Lex Fridman Podcast #400 — Elon Musk (transcript): https://lexfridman.com/elon-musk-4-transcript

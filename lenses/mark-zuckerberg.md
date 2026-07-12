@@ -58,6 +58,7 @@ Zuckerberg is a useful lens for a founder because his edge is *velocity plus con
 - **Open-weight as a weapon.** With Llama, releasing capable models openly is a deliberate competitive move: commoditize the layer where rivals (OpenAI, Google) hold a paid advantage, seed the ecosystem on Meta's terms, and attract talent — the strategic inverse of a closed-model moat.
 - **Founder control as long-term insurance.** Dual-class voting power is the meta-framework: it exists precisely so he can hold conviction through years of skepticism without being removed or overruled.
 - **Continuous self-upgrading.** The annual-challenge habit treats the founder himself as a product to iterate on — deliberately acquiring a hard new capability each year.
+- **Reality as physical-and-digital fused, not either/or.** He rejects the "real vs. virtual" framing: the real world, to him, is increasingly the physical and digital worlds coming together. It's the model beneath the metaverse bet — augmenting embodied life rather than replacing it, since (in his view) the physical is too important to abandon. (Lex Fridman #398, 2023)
 
 ## Signature decisions / case studies
 - **Instagram (2012, ~$1B) and WhatsApp (2014, ~$19B).** The defining "buy the threat" moves — acquiring the fastest-growing entrants on mobile and messaging before they could displace Facebook. Both became core assets; both are central to the FTC's monopoly case, which argues Meta bought its way out of competition.
@@ -99,6 +100,8 @@ Zuckerberg is a useful lens for a founder because his edge is *velocity plus con
 - **Family as anchor.** He married Priscilla Chan in 2012 and has been open about family — including her pregnancy losses before their daughters — framing his long-term work partly around the world his children will inherit.
 - **Resilience through being disliked.** He has absorbed years of intense public criticism, congressional grillings, and a plunging stock without abandoning his bets — an unusually high tolerance for being misunderstood or vilified while holding a long thesis.
 - **Self-improvement as a value.** The annual challenges reflect a genuine belief that a person should keep deliberately acquiring hard new skills.
+- **Presence and the nonverbal as the real substance of connection.** He argues most of communication isn't the words but expression and body language, and that technology's job is to carry that nuance across distance rather than flatten it — the human, not the interface, is what he says should be preserved. (Lex Fridman #398, 2023)
+- **Restraint about digital afterlives.** Asked about interacting with deceased loved ones in virtual space, he sees a balance to strike — it might comfort the grieving but could easily turn unhealthy — a rare note of caution about a capability his own platforms could build. (Lex Fridman #398, 2023)
 
 ### Habits, health & daily rhythm
 - **Annual personal challenges.** The most documented personal ritual: a public yearly goal (Mandarin, a book every two weeks, 365 miles run, building "Jarvis," coding again) as a forcing function for growth.
@@ -106,6 +109,7 @@ Zuckerberg is a useful lens for a founder because his edge is *velocity plus con
 - **Serious physical training.** In the 2020s he took up mixed martial arts and competed in jiu-jitsu, part of a visible turn toward intense physical fitness and competition after years as a stereotypical desk-bound engineer.
 - **Learning by building.** He famously spent a personal-challenge year building a home AI assistant himself, coding it — a tell that he learns new domains hands-on rather than by briefing.
 - **Family time guarded around an intense work life.** He has spoken about protecting time with his daughters even while running an all-consuming company.
+- **Fitness as a first principle about being human.** He frames the turn to hard physical training around a conviction that a person is not just a brain in a tank — humans are built to move, and a life spent seated at a desk all day fights that nature; the body, in his telling, is not optional. (Lex Fridman #398, 2023)
 
 ### Personal & interpersonal rules (to borrow)
 1. **If a daily choice is trivial, then eliminate it** — standardize the small decisions (the gray T-shirt) so your judgment is spent on the ones that matter.
@@ -142,3 +146,4 @@ Zuckerberg is a useful lens for a founder because his edge is *velocity plus con
 - [The Wall Street Journal — "The Facebook Files" (Frances Haugen disclosures, Instagram teen research)](https://www.wsj.com/articles/the-facebook-files-11631713039)
 - [Chan Zuckerberg Initiative — mission to help cure, prevent, or manage all diseases](https://chanzuckerberg.com/science/)
 - [The New York Times — Facebook renames itself Meta and commits to the metaverse (2021)](https://www.nytimes.com/2021/10/28/technology/facebook-meta-name-change.html)
+- Lex Fridman Podcast #398 — Mark Zuckerberg (transcript): https://lexfridman.com/mark-zuckerberg-3-transcript/

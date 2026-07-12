@@ -17,6 +17,8 @@ Ng is not a frontier-model builder and does not want to be one; his edge is turn
 - **Data-centric, not model-centric.** In a world obsessed with tweaking architectures, Ng holds the model fixed and systematically improves the *data* — better labeling, consistent definitions, fixing noisy examples. For the small datasets typical of real industries, he argues this beats another round of model tuning.
 - **Ship the smallest useful thing, then flywheel.** He favors starting with a narrow pilot that can succeed within a year, using the early win to build momentum, data, and organizational belief rather than betting everything on one grand rollout.
 - **Teach as you build.** Ng treats clear explanation as an operating tool: DeepLearning.AI courses, the weekly *The Batch* newsletter, and his talks are how he both spreads capability and forces his own thinking to stay concrete and jargon-free.
+- **Teach for the learner, not the researcher.** His stated design rule for courses is to do what is best for learners — resisting the temptation to spotlight his own research — which is why he'll spend heavily on foundations like gradient descent that pay off across a whole career rather than on flashy topics.
+- **Whiteboard minimalism.** He deliberately favors a whiteboard and marker over slides for teaching math; the slowness of writing forces him to reduce an idea to its basics, which he treats as a feature, not a limitation.
 - **Measured public voice.** He deliberately positions himself against hype in both directions — neither doomer nor magical-thinking booster — and repeatedly reframes AI as a normal (if powerful) engineering technology that rewards disciplined, boring execution.
 - **Incubation by repeatable process.** At AI Fund he approaches startup-building as a systematic pipeline — validate the problem, staff a small team, test fast — rather than betting on lone genius.
 
@@ -96,11 +98,14 @@ Ng is not a frontier-model builder and does not want to be one; his edge is turn
 - **Access and opportunity.** His deepest recurring value is that world-class capability should be available to anyone, anywhere — education as a lever against the accident of where you were born.
 - **Evidence over emotion.** He prizes reasoning from what is actually demonstrable now, and is temperamentally suspicious of arguments powered mainly by fear or by excitement.
 - **Usefulness as the measure.** He judges AI work by whether it helps real people and real businesses, not by its cleverness or novelty — a builder's, not an aesthete's, value system.
+- **Impact over elegance.** He is candid that he enjoys work more when he can trace a line from it to helping someone — explicitly contrasting himself with a mathematician drawn to truth and beauty for their own sake. Positive impact, not theoretical purity, is what energizes him.
 - **Optimism as a stance.** He genuinely believes AI will make most people's lives better and treats that optimism as a reason to build and teach faster — a source of energy and, at times, of blind spots.
 
 ### Habits, health & daily rhythm
 - **Prolific, disciplined output.** The weekly cadence of *The Batch* and a steady stream of courses reflect a habit of consistent, sustained production rather than sporadic bursts.
 - **Learning as routine.** Ng has often advocated steady, small-dose continuous learning — reading papers and studying regularly rather than cramming — and models it in how he keeps current.
+- **A weekend reading ritual, on autopilot.** He describes setting aside time every Saturday and Sunday to read and study, deliberately making it a habit that "takes no cognitive load" — like brushing your teeth — so it happens without willpower. His arithmetic: a couple of papers a week compounds to roughly a hundred a year.
+- **Handwritten notes to lock it in.** He prefers taking notes by hand precisely because it's slower, which forces him to recode an idea into his own words rather than transcribe it — a small friction he treats as a retention tool.
 - **Simplify to explain.** A working habit: he repeatedly reduces complex ideas to their plainest form, both to teach and to test his own understanding.
 - *(Ng keeps his private routines relatively private; treat specifics beyond his public teaching and writing cadence as not well-documented rather than asserting them.)*
 
@@ -112,11 +117,14 @@ Ng is not a frontier-model builder and does not want to be one; his edge is turn
 5. **If an argument runs on fear or hype, then slow down and ask what the evidence shows** — reason from what's demonstrable now, in life as in work.
 6. **If you're intimidated by a hard new field, then remember it's learnable** — treat the barrier as informational, not innate.
 7. **If you disagree publicly, then argue the substance calmly** — persuade a broad audience rather than winning a fight with the loudest.
+8. **If you're choosing a job, then look at the ten to thirty people you'll work with daily, not the logo** — you become like the people around you, so great peers matter more than a prestigious brand (he's wary of rotation programs that don't let you pick your team).
+9. **If you want to enter a hard field, then just get started** — the first step (a course, a small project) matters more than waiting until you feel ready; momentum, not readiness, is what compounds.
 
 ### On life & people — in their words
 - "AI is the new electricity." — Ng's recurring framing across talks and interviews on AI as a general-purpose, transformative technology.
 - "Worrying about AI evil superintelligence today is a little bit like worrying about overpopulation on the planet Mars." — Ng on near-term AI-risk hype (interviews, ~2015–2016). *(Widely quoted; exact wording varies slightly across retellings, and his own emphasis has evolved since.)*
 - "AI won't replace [managers/radiologists], but [managers/radiologists] who use AI will replace those who don't." — a formulation Ng has used about AI augmenting rather than simply replacing skilled workers. *(Paraphrased pattern he has expressed in several talks; treat as characteristic framing rather than a single fixed quote.)*
+- "Everyone is self-taught." — Ng on the Lex Fridman Podcast (#73, 2020): institutions can teach, but the real learning is something you ultimately do for yourself.
 
 ## How to consult this lens
 > *"Act as the Ng lens. Decision: `<...>`. What's the actual use case and its value? Is this a data problem or a model problem? What's the smallest pilot that wins, and what's the data flywheel? Verdict + blind spot."*
@@ -136,3 +144,4 @@ Ng is not a frontier-model builder and does not want to be one; his edge is turn
 - [Data-centric AI campaign and competition (DeepLearning.AI, 2021)](https://https-deeplearning-ai.github.io/data-centric-comp/)
 - [Andrew Ng — "worrying about killer robots is like worrying about overpopulation on Mars" (coverage of the remark)](https://www.theregister.com/2015/03/19/andrew_ng_baidu_ai/)
 - [Andrew Ng — personal site and bio](https://www.andrewng.org/)
+- Lex Fridman Podcast #73 — Andrew Ng (transcript): https://lexfridman.com/andrew-ng-transcript

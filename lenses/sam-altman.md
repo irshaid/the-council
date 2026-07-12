@@ -86,6 +86,8 @@ Sam Altman is the operator who wins less by building a single product perfectly 
 - An intense, deliberate networker and relationship-builder — widely regarded as one of the best recruiters and founder-helpers in tech, investing in and advising people for years before he needs anything from them.
 - Generous with introductions, capital, and advice as a matter of practice, consistent with his written view that the best way to build a network is to genuinely help people.
 - Handles high-stakes conflict by mobilizing pre-built alliances rather than fighting alone (the 2023 saga); loyalty runs deep in his network, which is both a strength and a governance concern.
+- **Judges leaders by the boring Tuesday, not the crisis:** he told Lex Fridman he most values how someone performs on an ordinary Tuesday morning at 9:46, singling out a colleague's steady day-to-day judgment over dramatic crisis heroics — a tell for how he reads people. (#419)
+- **Loyalty is what turned the 2023 firing around for him:** he initially accepted the removal and pictured going off to run a focused AGI research effort; it was his executive team telling him they would fight it that shifted him from acceptance to contesting it. He compared the flood of public support that weekend to reading his own eulogy. (#419)
 - Draws real criticism — former board member Helen Toner and others describe ambiguity, selective disclosure, and political maneuvering. Presented fairly: the causes of the 2023 rift remain partly private and contested, not a settled verdict on intent.
 
 ### Values & inner life
@@ -93,6 +95,9 @@ Sam Altman is the operator who wins less by building a single product perfectly 
 - Prizes ambition, near-delusional self-belief, and independent (first-principles) thinking, tempered by seeking honest feedback — the throughline of "How to Be Successful."
 - Believes in doing unglamorous, non-scaling things early and that willful action can "bend the world" more often than people assume.
 - Manages high-stakes stress by treating his own psychology — morale, energy, self-talk — as a first-order variable, and carries a high but deliberately hedged risk appetite.
+- **The 2023 firing reset his default trust:** he called that weekend the most painful, chaotic, and shameful experience of his professional life, yet said he felt "a great deal of love and very little hate." A self-described extremely trusting person who preferred to operate with his guard down and absorb the occasional betrayal, he admits — reluctantly — that the shock permanently pushed him toward planning for bad scenarios. (#419)
+- **Clear-eyed about the personal cost and his own blind spots:** asked about danger, he said plainly that the chance he eventually gets shot is not zero, and he concedes he is fairly disconnected from the reality of life for most people — a caution he holds against his own optimism. (#419, #367)
+- **Frames the path to AGI as a power struggle that needs structure, not virtue:** he says he holds and wants no special voting power and no control of the board, arguing the safeguard against a technology this consequential must be resilient institutions rather than trust in any one person — including himself. (#367, #419)
 
 ### Habits, health & daily rhythm
 - Has written a dedicated "Productivity" essay: get the *direction* right before optimizing speed, keep a simple paper (or minimal) to-do list, protect long stretches of focus, and say no aggressively to guard time and attention.
@@ -144,3 +149,5 @@ Sam Altman is the operator who wins less by building a single product perfectly 
 - [Moore's Law for Everything — Sam Altman (moores.samaltman.com)](https://moores.samaltman.com/)
 - [Sam Altman's Manifest Destiny (2016 profile) — The New Yorker](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)
 - [Sam Altman marries longtime partner Oliver Mulherin — coverage of the 2024 wedding](https://www.businessinsider.com/openai-sam-altman-partner-husband-oliver-mulherin)
+- Lex Fridman Podcast #419 — Sam Altman (transcript): https://lexfridman.com/sam-altman-2-transcript
+- Lex Fridman Podcast #367 — Sam Altman (transcript): https://lexfridman.com/sam-altman/
