@@ -44,6 +44,13 @@ The advisors and their full lenses live in `lenses/`. Read the relevant lens fil
 | Mary Barra | `lenses/mary-barra.md` | manufacturing/industrials · legacy-giant transformation · EV/autonomy bet · crisis & recall accountability · capital discipline over volume |
 | Lisa Su | `lenses/lisa-su.md` | semiconductors · corporate turnaround · focus & prioritization · long-term technical roadmaps · execution discipline |
 | Oprah Winfrey | `lenses/oprah-winfrey.md` | media · personal brand & trust as moat · owning your IP · audience relationship · building an empire from nothing |
+| Paul Graham | `lenses/paul-graham.md` | early-stage startups · founder advice · make something people want · growth as compass · do things that don't scale · default alive/dead · clear thinking/essays |
+| Bill Gates | `lenses/bill-gates.md` | software platforms · IP-licensing leverage · network effects · competitive strategy · long-term tech bets · measurement-driven philanthropy/global systems |
+| Ray Dalio | `lenses/ray-dalio.md` | macro & the economic machine · debt cycles · systematic principles/decision-making · radical transparency culture · diversification/risk parity |
+| Tobi Lütke | `lenses/tobi-lutke.md` | commerce platforms · developer/craft culture · long-term anti-hustle building · trust battery & management · first-principles · empowering entrepreneurs |
+| Andrew Chen | `lenses/andrew-chen.md` | growth · network effects · the cold-start problem · marketplaces & consumer · viral/engagement/economic loops · retention |
+| Pavel Durov | `lenses/pavel-durov.md` | lean high-leverage teams · privacy/encryption · independence over capital · free-speech tradeoffs · platform liability · extreme personal discipline |
+| Andrew Ng | `lenses/andrew-ng.md` | applied/practical AI · data-centric AI · enterprise & industrial deployment · AI transformation playbook · democratizing AI · use-case-first adoption |
 
 > **Beyond business.** Every lens file now includes a **`## The personal side`** section covering how that person handles relationships, conflict, family, values, and self. So the Council can also field **personal and interpersonal questions** (staying professional with a difficult colleague, family tension, handling anger, work–life calls). For those questions, score advisors on the *personal/interpersonal* fit documented in their "personal side" section — not their business domains — and read that section (not just the business ones) when answering in their voice. Be honest that this is a secondary strength: on a purely personal/emotional question, top fits will be lower (rarely above ~60–70%), and if no lens fits well, say so.
 
