@@ -2,17 +2,26 @@
 
 Thinking lenses of ten founders and operators — how they think and decide — plus an **orchestrator** that routes any question to the right advisor(s). Bring a decision; The Council shows you which of the ten are best suited to answer (with a fit score), answers in their voices, and tells you where they disagree.
 
-## The lenses
-- **[Jeff Bezos](lenses/jeff-bezos.md)** — deciding under uncertainty; reversible vs. irreversible calls.
-- **[Alex Hormozi](lenses/alex-hormozi.md)** — offers, pricing, getting customers.
-- **[Steve Jobs](lenses/steve-jobs.md)** — focus, taste, shipping.
-- **[Naval Ravikant](lenses/naval-ravikant.md)** — leverage and the solo builder.
-- **[Demis Hassabis](lenses/demis-hassabis.md)** — long-horizon deep-tech strategy and problem selection.
-- **[Dario Amodei](lenses/dario-amodei.md)** — building a frontier company on a technical thesis.
-- **[Sam Altman](lenses/sam-altman.md)** — network, capital, and resourcefulness.
-- **[Elon Musk](lenses/elon-musk.md)** — first principles and execution velocity.
-- **[Larry Fink](lenses/larry-fink.md)** — risk, capital allocation, and building an institution.
-- **[Peter Thiel](lenses/peter-thiel.md)** — contrarian strategy and monopoly.
+## The Council
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="avatars/jeff-bezos.png" width="110" alt="Jeff Bezos"><br><b><a href="lenses/jeff-bezos.md">Jeff Bezos</a></b><br><sub>Founder, Amazon</sub></td>
+<td align="center" width="20%"><img src="avatars/alex-hormozi.png" width="110" alt="Alex Hormozi"><br><b><a href="lenses/alex-hormozi.md">Alex Hormozi</a></b><br><sub>Founder, Acquisition.com</sub></td>
+<td align="center" width="20%"><img src="avatars/steve-jobs.png" width="110" alt="Steve Jobs"><br><b><a href="lenses/steve-jobs.md">Steve Jobs</a></b><br><sub>Co-founder, Apple</sub></td>
+<td align="center" width="20%"><img src="avatars/naval-ravikant.png" width="110" alt="Naval Ravikant"><br><b><a href="lenses/naval-ravikant.md">Naval Ravikant</a></b><br><sub>Founder, AngelList</sub></td>
+<td align="center" width="20%"><img src="avatars/demis-hassabis.png" width="110" alt="Demis Hassabis"><br><b><a href="lenses/demis-hassabis.md">Demis Hassabis</a></b><br><sub>CEO, Google DeepMind</sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><img src="avatars/dario-amodei.png" width="110" alt="Dario Amodei"><br><b><a href="lenses/dario-amodei.md">Dario Amodei</a></b><br><sub>CEO, Anthropic</sub></td>
+<td align="center" width="20%"><img src="avatars/sam-altman.png" width="110" alt="Sam Altman"><br><b><a href="lenses/sam-altman.md">Sam Altman</a></b><br><sub>CEO, OpenAI</sub></td>
+<td align="center" width="20%"><img src="avatars/elon-musk.png" width="110" alt="Elon Musk"><br><b><a href="lenses/elon-musk.md">Elon Musk</a></b><br><sub>CEO, Tesla &amp; SpaceX</sub></td>
+<td align="center" width="20%"><img src="avatars/larry-fink.png" width="110" alt="Larry Fink"><br><b><a href="lenses/larry-fink.md">Larry Fink</a></b><br><sub>CEO, BlackRock</sub></td>
+<td align="center" width="20%"><img src="avatars/peter-thiel.png" width="110" alt="Peter Thiel"><br><b><a href="lenses/peter-thiel.md">Peter Thiel</a></b><br><sub>Co-founder, PayPal &amp; Palantir</sub></td>
+</tr>
+</table>
+
+<sub>Pixel-art avatars are stylized representations, not real likenesses.</sub>
 
 ## Install on Claude
 
