@@ -20,6 +20,8 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 - Works on **long time-horizons** and is willing to sink years into problems (protein folding, game-playing) before payoff, backed by heavy compute investment.
 - **Hires for research excellence** and gives researchers latitude; treats recruiting top scientific talent as a core strategic act.
 - Personally maintains an intense working cadence (famously long hours, with a habit of deep thinking late at night) while trying to keep the org's "startup" pace even at scale.
+- **Prizes the question over the answer.** He argues that in science, formulating the right conjecture is the harder, rarer act — "harder to come up with a conjecture than it is to solve it" — so he spends his creative energy on choosing which question to ask, not just on cracking it. (Lex #475, 2025)
+- **Designs experiments to make failure productive.** He wants each hypothesis to *meaningfully split the hypothesis space*, so that a negative result is as informative as a positive one — the research only "fails" if you learn nothing either way. (Lex #475, 2025)
 
 ## How they make decisions
 - **The problem-selection test.** Hassabis repeatedly frames the key question as choosing problems that are simultaneously: deep/important enough to matter, rich in data (or capable of generating their own data via self-play/simulation), and **benchmarkable** — where progress can be objectively measured. Protein folding fit perfectly: a decades-old grand challenge, large public datasets, and a clean benchmark (CASP).
@@ -27,6 +29,7 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 - **Prioritize decade-scale problems** with civilizational upside — especially health and science (disease, drug discovery, materials, energy, mathematics) over short-term product wins.
 - **Ambition held in tension with safety.** He argues for building AGI *and* for not "moving fast and breaking things" — favoring staged capability testing and gradual release with guardrails. He lets these two impulses pull against each other rather than collapsing one into the other.
 - Uses **games as controlled proving grounds** before touching the messy real world: master a bounded, measurable "game" first, then transfer the method.
+- **Sequences ambition to build confidence.** He deliberately wins an achievable version of a problem before attempting the hardest one (AlphaGo before AlphaZero), because attempting the hardest version cold is "psychologically very difficult" for a team — early wins earn the belief needed to attack the summit. (Lex #299, 2022)
 
 ## Decision playbook
 
@@ -55,6 +58,7 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 - **Games as benchmarks.** Games offer clear rules, unlimited self-generated data, and unambiguous scoring — the perfect training ground for general learning systems intended for the real world.
 - **Neuroscience-inspired AI.** Study how the brain achieves intelligence (memory, imagination, planning, reward) to inspire architectures, and use AI in return to better understand the brain — a two-way street.
 - **Benchmark-driven progress.** Objective, hard benchmarks are how you know you are actually advancing; when benchmarks saturate, you need harder ones.
+- **Three levels of creativity.** He grades creativity as a ladder: *interpolation* (recombining what exists), *extrapolation* (extending a pattern beyond its training range, as Move 37 did within Go), and true *out-of-the-box invention* (inventing Go itself, or a new scientific concept) — the last of which AI has not yet reached. (Lex #299, 2022)
 
 ## Signature decisions / case studies
 - **AlphaGo & Move 37 (2016).** DeepMind beat world champion Lee Sedol 4–1 at Go, a game long considered too intuitive for machines. In game 2, AlphaGo's "Move 37" was a play no strong human would have chosen; commentators called it creative and alien, and its value only became clear many moves later. Hassabis has cited it as a defining moment showing AI could produce genuine, novel creativity — not just imitate humans. Outcome: a global inflection point in AI's public credibility.
@@ -94,6 +98,7 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 - **Safety and ethics as core, not add-ons.** He pushed for ethics/safety oversight early (a condition of the Google acquisition) and consistently argues for caution — evidence he treats responsibility as part of the work, not PR.
 - **Humility before hard problems.** He speaks of intelligence, the brain, and reality as genuinely mysterious, and holds his own forecasts loosely — confidence about direction, humility about specifics.
 - **Science as service.** His 2024 Nobel Prize (Chemistry, for AlphaFold) he framed as an honour tied to helping people, not personal glory — long-horizon patience rewarded.
+- **Emotional regulation learned at the board.** A lifetime of chess taught him to hold wins and losses in balance — not to get carried away with victory, and to let losses keep him humble — and he explicitly values a team's ability to absorb setbacks "in a healthy way" rather than be broken by them. (Lex #475, 2025 / #299, 2022)
 
 ### Habits, health & daily rhythm
 - **The nocturnal "second shift."** His signature habit: after the family day ends, he does a late-night block of reading, thinking, and research — protecting uninterrupted deep-work hours when the world is quiet.
@@ -142,4 +147,6 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 - [Demis Hassabis — Nobel Prize Biographical / Lecture materials (NobelPrize.org)](https://www.nobelprize.org/prizes/chemistry/2024/hassabis/biographical/)
 - [Demis Hassabis — profile, The Guardian](https://www.theguardian.com/technology/demis-hassabis)
 - [Demis Hassabis on the Lex Fridman Podcast (interview, 2025)](https://lexfridman.com/demis-hassabis-2/)
+- Lex Fridman Podcast #475 — Demis Hassabis (transcript, 2025): https://lexfridman.com/demis-hassabis-2-transcript
+- Lex Fridman Podcast #299 — Demis Hassabis (transcript, 2022): https://lexfridman.com/demis-hassabis/
 - [Mustafa Suleyman — Wikipedia (DeepMind co-founder context)](https://en.wikipedia.org/wiki/Mustafa_Suleyman)
