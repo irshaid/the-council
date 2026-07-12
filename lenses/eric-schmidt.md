@@ -19,6 +19,8 @@ Schmidt is the canonical case of the *scaler* rather than the inventor. He didn'
 - **The founder partnership as an operating structure.** The Page/Brin/Schmidt "triumvirate" was itself a work style: big decisions were talked through among the three, with Schmidt handling operations, revenue, and external-facing leadership while founders drove product and technical direction.
 - **Build the money engine deliberately.** Under Schmidt, Google turned the AdWords auction and the AdSense network into an enormous, disciplined revenue machine — pairing the founders' auction insight with real go-to-market, sales, and operational scale.
 - **Manage growth and process without killing speed.** His constant balancing act was adding enough structure (hiring bars, OKRs, review cadences, financial discipline) to survive scale, while protecting the openness and engineering-led culture that made Google work in the first place.
+- **Pair bottoms-up experiments with top-down vision.** He describes Google's innovation engine as two forces at once: employees given room for their own projects (the "20% time" instinct) *and* founders continuously scanning emerging technologies for the next big bet — neither alone is enough.
+- **Know your own type: a systems thinker, not a charismatic founder.** Schmidt casts himself as a planner and systems thinker — more conservative and structured than the visionary founders he served — and insists there is no single formula for leadership; the operator's job is to know which kind of leader he is and play that role well.
 
 ## How they make decisions
 - **Let the data settle it.** Schmidt's default is to reframe an argument as an empirical question and gather evidence, so the decision is made by facts rather than by seniority or force of personality.
@@ -26,6 +28,7 @@ Schmidt is the canonical case of the *scaler* rather than the inventor. He didn'
 - **Defer to the founders on vision, own the operations.** A core rule of the partnership was knowing which decisions were his and which weren't. On product direction and long-term bets, he saw his job as enabling Page and Brin; on running the company at scale, he led.
 - **Bias toward the big platform bets.** Schmidt backed acquisitions and investments that looked expensive or odd at the time — Android, YouTube, the ad-tech stack — on the logic that owning the next platform mattered more than the sticker price.
 - **Say yes to talent and let it run.** Many of Google's biggest wins came from empowering internal smart creatives and acquired founders rather than from top-down mandates — a deliberate choice to decentralize invention.
+- **Refuse long-range technology predictions.** Schmidt treats the field as genuinely unpredictable — deep learning took roughly two decades to travel from theory (Hinton and others) to working systems — so he distrusts 50-year forecasts and steers decisions toward what is buildable and deployable in the next 5–10 years rather than what might exist in a century.
 
 ## Decision playbook
 
@@ -58,6 +61,9 @@ Schmidt is the canonical case of the *scaler* rather than the inventor. He didn'
 - **Team-first coaching (via Bill Campbell).** Great management is a caring, human, team-first practice: build trust, back your people, coach rather than command, and treat the team as the thing you optimize, not any single star. This is the thesis of *Trillion Dollar Coach*.
 - **Platform thinking.** Own the platform of the next computing wave (mobile, video, cloud, now AI); the position is worth more than the near-term cost.
 - **Technology-and-power lens (later work).** In *The Age of AI* (with Henry Kissinger and Daniel Huttenlocher), Schmidt frames AI as a civilizational force that reshapes knowledge, security, and geopolitics — arguing societies must govern it deliberately before it governs them.
+- **Near-term benefit over sci-fi risk.** Schmidt separates timeframes deliberately: the "killer robots" existential worry is a hundred-years-out conversation and such systems aren't even being built today, while the urgent near-term opportunity is deploying AI broadly in healthcare and education. Work on the tractable near term, not the dramatic distant.
+- **Impact requires scale.** A recurring test in his thinking: an idea or technology only matters if it can reach millions or billions of people. Specialized, boutique solutions are interesting; the ones worth betting on are those that scale to a large fraction of humanity.
+- **Start from a powerful insight, then keep it simple.** His template for a new company (drawn from Google's origin) is a genuine, non-obvious insight paired with a deliberately simple beginning and real innovation — not a grand plan executed all at once.
 
 ## Signature decisions / case studies
 - **The 2001 CEO hand-off.** The founding move of the "professional CEO + founders" model. Schmidt made the power-sharing triumvirate work for a decade, and it became the reference case (later echoed, with variations, elsewhere in tech) for how to bring in operating leadership without gutting founder control.
@@ -98,6 +104,7 @@ Schmidt is the canonical case of the *scaler* rather than the inventor. He didn'
 - **Meritocracy of ideas.** His deepest professional value is that the best idea, backed by evidence, should win regardless of who holds it — a genuine (if imperfectly realized) belief in reason over hierarchy.
 - **Technology as civilizational force.** In his later work he frames technology, and now AI, as forces that reshape human knowledge, security, and geopolitics — and argues that stewarding them wisely is among the most important tasks of the age.
 - **Optimism disciplined by realism.** He is broadly a techno-optimist who nonetheless spends his later years warning about AI's risks and urging deliberate governance — belief in progress tempered by concern about power and misuse.
+- **Faith that tools make people smarter.** His baseline optimism is concrete: he expects humans to become "a great deal smarter" as they gain better technological tools and longer, healthier lifespans — the payoff that makes the near-term work worth doing. His live worries are practical ones, like making cities sustainable, not runaway machines.
 - **Wealth as leverage.** Post-Google, Schmidt has directed enormous resources through philanthropy and investment (science, AI, national-security work) — treating his fortune as a tool for shaping fields and policy, which is both genuine impact and a source of the influence critics question.
 
 ### Habits, health & daily rhythm
@@ -136,3 +143,4 @@ Schmidt is the canonical case of the *scaler* rather than the inventor. He didn'
 - [U.S. National Security Commission on Artificial Intelligence — Final Report (Schmidt, chair)](https://www.nscai.gov/2021-final-report/)
 - [Wikipedia — Eric Schmidt (career overview: Sun, Novell, Google, Berkeley PhD, lex)](https://en.wikipedia.org/wiki/Eric_Schmidt)
 - [The verge / general coverage — Android acquisition (2005) and its significance](https://www.theverge.com/2013/4/16/4230468/andy-rubin-google-android-history)
+- Lex Fridman Podcast #8 — Eric Schmidt (transcript): https://podscripts.co/podcasts/lex-fridman-podcast/eric-schmidt-google
