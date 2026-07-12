@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Council — Pixel Portraits</title>
+<style>
+  :root {
+    --bg: #0f1117; --panel: #171a22; --panel-2: #1e222c; --line: #2a2f3a;
+    --text: #e8eaf0; --muted: #9aa0ad; --accent: #7c3aed;
+  }
+  :root[data-theme="light"] {
+    --bg: #f4f5f7; --panel: #ffffff; --panel-2: #eceef2; --line: #e2e5ea;
+    --text: #1c2128; --muted: #5a626e; --accent: #7c3aed;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.5 -apple-system, "Segoe UI", system-ui, sans-serif; }
+  header { padding: 30px 24px 14px; text-align: center; }
+  header h1 { margin: 0 0 6px; font-size: 26px; letter-spacing: -0.02em; }
+  header p { margin: 0; color: var(--muted); font-size: 13px; }
+  .toolbar { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;
+    padding: 14px 24px 6px; }
+  .chip { border: 1px solid var(--line); background: var(--panel); color: var(--muted);
+    padding: 5px 12px; border-radius: 999px; font-size: 12px; cursor: pointer;
+    transition: .15s; }
+  .chip:hover { color: var(--text); }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  #theme { position: fixed; top: 16px; right: 16px; border: 1px solid var(--line);
+    background: var(--panel); color: var(--text); border-radius: 8px; padding: 6px 10px;
+    cursor: pointer; font-size: 13px; }
+  .grid { display: grid; gap: 14px; padding: 22px 24px 60px; max-width: 1180px;
+    margin: 0 auto; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 14px;
+    padding: 16px 10px 12px; text-align: center; transition: .15s; position: relative;
+    overflow: hidden; }
+  .card:hover { transform: translateY(-3px); border-color: var(--accent); }
+  .card .art { display: flex; justify-content: center; margin-bottom: 10px; }
+  .card .art svg { image-rendering: pixelated; image-rendering: crisp-edges;
+    filter: drop-shadow(0 3px 6px rgba(0,0,0,.25)); animation: bob 3s ease-in-out infinite; }
+  .card:nth-child(2n) .art svg { animation-duration: 3.4s; animation-delay: -1.2s; }
+  .card:nth-child(3n) .art svg { animation-duration: 2.7s; animation-delay: -.6s; }
+  .card:nth-child(4n) .art svg { animation-duration: 3.1s; animation-delay: -1.8s; }
+  @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+  @media (prefers-reduced-motion: reduce) { .card .art svg { animation: none; } }
+  .card .name { font-weight: 600; font-size: 13px; }
+  .card .dom { font-size: 10px; color: var(--muted); margin-top: 3px;
+    display: inline-block; padding: 2px 7px; border-radius: 999px;
+    background: var(--panel-2); }
+  .count { text-align: center; color: var(--muted); font-size: 12px; padding-bottom: 4px; }
+</style>
+</head>
+<body>
+  <button id="theme">☀︎ / ☾</button>
+  <header>
+    <h1>The Council</h1>
+    <p>50 advisors · hand-authored 14×14 pixel portraits · pure SVG, no images</p>
+  </header>
+  <div class="toolbar" id="filters"></div>
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+
+  <script src="pixel-art.js"></script>
+  <script src="portraits.js"></script>
+  <script>
+    const grid = document.getElementById('grid');
+    const filters = document.getElementById('filters');
+    const count = document.getElementById('count');
+    let active = 'All';
+
+    const domains = ['All', ...new Set(MENTORS.map(m => m.domain))];
+    domains.forEach(d => {
+      const b = document.createElement('button');
+      b.className = 'chip' + (d === 'All' ? ' active' : '');
+      b.textContent = d;
+      b.onclick = () => { active = d; render();
+        [...filters.children].forEach(c => c.classList.toggle('active', c.textContent === d)); };
+      filters.appendChild(b);
+    });
+
+    function render() {
+      grid.innerHTML = '';
+      const list = MENTORS.filter(m => active === 'All' || m.domain === active);
+      count.textContent = list.length + ' advisor' + (list.length === 1 ? '' : 's');
+      list.forEach(m => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        const accent = DOMAIN_COLORS[m.domain] || 'var(--accent)';
+        card.innerHTML =
+          '<div class="art">' + PIXEL.portraitSVG(m, 8) + '</div>' +
+          '<div class="name">' + m.name + '</div>' +
+          '<div class="dom" style="color:' + accent + '">' + m.domain + '</div>';
+        grid.appendChild(card);
+      });
+    }
+    render();
+
+    const root = document.documentElement;
+    document.getElementById('theme').onclick = () => {
+      root.dataset.theme = root.dataset.theme === 'light' ? 'dark' : 'light';
+    };
+  </script>
+</body>
+</html>
