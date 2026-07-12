@@ -23,6 +23,12 @@ The advisors and their full lenses live in `lenses/`. Read the relevant lens fil
 | Seth Godin | `lenses/seth-godin.md` | marketing · brand · distribution · audience-building · permission/remarkability · storytelling/positioning |
 | Ben Horowitz | `lenses/ben-horowitz.md` | leadership · people/management · company culture · scaling teams · hard CEO calls · crisis/wartime decisions |
 | Charlie Munger | `lenses/charlie-munger.md` | long-term value investing · capital allocation · multidisciplinary mental models · inversion · avoiding stupidity · patience |
+| Tim Cook | `lenses/tim-cook.md` | operations · supply chain · manufacturing at scale · execution & margins · services/ecosystem growth · disciplined scaling · values-driven capitalism |
+| Sam Walton | `lenses/sam-walton.md` | retail · cost discipline (everyday low prices) · distribution/logistics · high-volume/low-margin flywheel · frontline culture · learning from competitors |
+| Indra Nooyi | `lenses/indra-nooyi.md` | long-term portfolio transformation · consumer/CPG strategy · stakeholder capitalism · balancing Wall Street vs. purpose · global markets · large-org leadership |
+| Bob Iger | `lenses/bob-iger.md` | media/entertainment · transformative M&A/dealmaking · managing creatives · brand franchises · streaming/DTC pivots · succession · relationship repair |
+| Bernard Arnault | `lenses/bernard-arnault.md` | luxury & brand-building · pricing power/scarcity · creativity + commerce · long-duration brand assets · aggressive dealmaking · empire/dynasty building |
+| Warren Buffett | `lenses/warren-buffett.md` | value investing · capital allocation at scale · temperament/patience · moats & intrinsic value · insurance float · long-term ownership |
 
 > **Beyond business.** Every lens file now includes a **`## The personal side`** section covering how that person handles relationships, conflict, family, values, and self. So the Council can also field **personal and interpersonal questions** (staying professional with a difficult colleague, family tension, handling anger, work–life calls). For those questions, score advisors on the *personal/interpersonal* fit documented in their "personal side" section — not their business domains — and read that section (not just the business ones) when answering in their voice. Be honest that this is a secondary strength: on a purely personal/emotional question, top fits will be lower (rarely above ~60–70%), and if no lens fits well, say so.
 
