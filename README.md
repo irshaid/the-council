@@ -1,13 +1,18 @@
 # The Council
 
-Thinking lenses of five great operators — how they think and decide — written so you can put a real decision in front of them. Works great with an AI assistant: paste a lens and ask it to pressure-test your call.
+Thinking lenses of ten founders and operators — how they think and decide — written so you can put a real decision in front of them. Works great with an AI assistant: paste a lens and ask it to pressure-test your call.
 
 ## The lenses
-- **[Jeff Bezos](lenses/jeff-bezos.md)** — deciding under uncertainty.
+- **[Jeff Bezos](lenses/jeff-bezos.md)** — deciding under uncertainty; reversible vs. irreversible calls.
 - **[Alex Hormozi](lenses/alex-hormozi.md)** — offers, pricing, getting customers.
 - **[Steve Jobs](lenses/steve-jobs.md)** — focus, taste, shipping.
 - **[Naval Ravikant](lenses/naval-ravikant.md)** — leverage and the solo builder.
-- **[Demis Hassabis](lenses/demis-hassabis.md)** — long-horizon strategy and problem selection.
+- **[Demis Hassabis](lenses/demis-hassabis.md)** — long-horizon deep-tech strategy and problem selection.
+- **[Dario Amodei](lenses/dario-amodei.md)** — building a frontier company on a technical thesis.
+- **[Sam Altman](lenses/sam-altman.md)** — network, capital, and resourcefulness.
+- **[Elon Musk](lenses/elon-musk.md)** — first principles and execution velocity.
+- **[Larry Fink](lenses/larry-fink.md)** — risk, capital allocation, and building an institution.
+- **[Peter Thiel](lenses/peter-thiel.md)** — contrarian strategy and monopoly.
 
 ## How to use
 Pick a real decision. Open a lens (or paste it into your AI assistant) and ask:
