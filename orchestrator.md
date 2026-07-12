@@ -37,6 +37,13 @@ The advisors and their full lenses live in `lenses/`. Read the relevant lens fil
 | Larry Page | `lenses/larry-page.md` | 10x/moonshot thinking · technology-first bets · focus-on-the-user · founder mindset · audacious long bets · search/consumer scale |
 | Eric Schmidt | `lenses/eric-schmidt.md` | scaling a startup into a giant · professional-CEO-with-founders · management & "smart creatives" · data-driven decisions · ad-business GTM at scale · coaching culture |
 | Sundar Pichai | `lenses/sundar-pichai.md` | product management at scale · running a giant · consensus/low-ego leadership · platform & distribution · navigating crises & activism · steady AI pivot |
+| Jensen Huang | `lenses/jensen-huang.md` | semiconductors/hardware · AI-compute platforms · accelerated computing · creating new markets · long-horizon platform bets · flat orgs & intensity |
+| Jamie Dimon | `lenses/jamie-dimon.md` | banking · systemic risk management · crisis navigation · fortress balance sheet · capital/credit discipline · regulation & macro |
+| Jack Ma | `lenses/jack-ma.md` | China/emerging markets · e-commerce & fintech · charismatic founder culture · scaling in adversity · business–government relations (cautionary) |
+| Reed Hastings | `lenses/reed-hastings.md` | subscription/streaming · serial self-disruption · high-talent-density culture (keeper test) · freedom & responsibility · long-term content bets |
+| Mary Barra | `lenses/mary-barra.md` | manufacturing/industrials · legacy-giant transformation · EV/autonomy bet · crisis & recall accountability · capital discipline over volume |
+| Lisa Su | `lenses/lisa-su.md` | semiconductors · corporate turnaround · focus & prioritization · long-term technical roadmaps · execution discipline |
+| Oprah Winfrey | `lenses/oprah-winfrey.md` | media · personal brand & trust as moat · owning your IP · audience relationship · building an empire from nothing |
 
 > **Beyond business.** Every lens file now includes a **`## The personal side`** section covering how that person handles relationships, conflict, family, values, and self. So the Council can also field **personal and interpersonal questions** (staying professional with a difficult colleague, family tension, handling anger, work–life calls). For those questions, score advisors on the *personal/interpersonal* fit documented in their "personal side" section — not their business domains — and read that section (not just the business ones) when answering in their voice. Be honest that this is a secondary strength: on a purely personal/emotional question, top fits will be lower (rarely above ~60–70%), and if no lens fits well, say so.
 
