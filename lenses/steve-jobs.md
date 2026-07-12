@@ -29,6 +29,26 @@ Steve Jobs (1955–2011) was not an engineer, not a designer, and not a classica
 - **Start with the customer experience, work back to the technology.** Never the reverse. "You've got to start with the customer experience and work backwards to the technology... not [start] with the technology and try to figure out where you're gonna sell it" (WWDC, 1997). He said he had made the opposite mistake more than anyone and had "the scar tissue to prove it."
 - **Binary judgments.** He tended to sort people, ideas, and work into "the best thing ever" or "shit," often instantly. This produced fast, high-conviction decisions — and frequent injustice when the snap call was wrong (he would sometimes later re-present a rejected idea as his own).
 
+## Decision playbook
+
+### Decision rules
+1. If you can't name what you're saying no to, you don't yet have a strategy — cut the list to the vital few and draw a line under it.
+2. If the product is a genuine breakthrough, discount focus groups and surveys — trust cultivated taste, because customers can only ask for what they already know.
+3. If you're deciding what to build, start from the customer experience and work backwards to the technology — never start with the tech and hunt for a use.
+4. If a product line has sprawled, collapse it to a grid simple enough to hold in your head (consumer/pro × desktop/portable) and kill everything off it.
+5. If a new product would cannibalize your own cash cow, do it yourself — "if you don't cannibalize yourself, someone else will."
+6. If you can build a prototype, decide in front of the real object, not the spec — react to what you can hold, not what you can read.
+7. If the experience is the thing you're selling, own the whole stack (hardware, software, services, and the point of sale) rather than assembling it from parts others optimize.
+8. If a strongly held opinion collides with stubborn evidence, reverse the opinion — changing your mind fast is cheaper than being consistently wrong.
+9. If a choice is big and fear is clouding it, ask it against mortality — the fear of embarrassment and loss falls away and only what matters remains.
+10. If the answer still feels complicated, keep working — simplicity is the hard-won far side of complexity, not a shortcut to it.
+
+### Decisions in action
+- **The 1997 four-quadrant cull.** *The call:* On returning to a near-bankrupt Apple with a dozen overlapping Macintosh models plus printers, the Newton, and clones, decide what Apple would actually make. *The options:* Keep milking a broad catalog for revenue, or amputate most of it and bet survival on a tiny lineup. *How they decided:* He drew a two-by-two grid on a whiteboard — consumer/pro × desktop/portable — declared everything off the grid canceled, and reduced Apple to four computers. *Outcome:* Restored focus and cash discipline; the platform on which iMac and everything after was built.
+- **The Microsoft truce (1997).** *The call:* Whether to keep fighting a decades-old rivalry with Microsoft or make peace with the company most Apple loyalists saw as the enemy. *The options:* Litigate the patent dispute and stay ideologically pure, or settle and take Microsoft's help to buy time. *How they decided:* He judged that Apple's survival mattered more than winning the rivalry, took a $150M investment (in non-voting shares) and a five-year commitment to keep developing Office for Mac, and announced it live at Macworld — absorbing the crowd's boos. *Outcome:* Reassured developers and users that the Mac had a future; bought the runway the turnaround needed.
+- **The App Store reversal (2007→2008).** *The call:* Whether outside developers could write native apps for the iPhone. *The options:* Lock the platform to Apple's own apps plus web apps (his initial "sweet solution" pitched at WWDC 2007), or open a native SDK and cede some control. *How they decided:* Faced with a flat developer reaction and sustained pressure, he reversed a strongly stated position — announcing an SDK in October 2007, shipping it in March 2008, and opening the App Store in July 2008. *Outcome:* Unleashed a developer economy that became one of Apple's most valuable and durable assets.
+- **iPhone over the iPod (2005–2007).** *The call:* Whether to build a phone that would eat into the iPod, then roughly half of Apple's revenue. *The options:* Protect the profitable iPod franchise, or launch a device that would predictably cannibalize it. *How they decided:* He applied his own rule — better to cannibalize yourself than let a competitor do it — and bet the company on a keyboard-less touchscreen phone integrating hardware, OS, and store. *Outcome:* The iPhone became the most profitable product in history and subsumed the iPod entirely.
+
 ## Frameworks & mental models
 - **Focus as subtraction.** "Innovation is saying no to a thousand things." Deciding what not to do is as important as deciding what to do. The whiteboard line under the top three is the model made physical.
 - **"Real artists ship."** A vision that never becomes a product in a customer's hands is worthless. He drove teams to finish and ship, treating shipping as the true test of an artist. (Attributed to Jobs during Macintosh development; documented by team members, e.g. Andy Hertzfeld's folklore.org — treat exact wording as reported, not recorded verbatim.)

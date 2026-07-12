@@ -28,6 +28,26 @@ Demis Hassabis (born London, 1976) is a rare polymath who converted a lifetime o
 - **Ambition held in tension with safety.** He argues for building AGI *and* for not "moving fast and breaking things" — favoring staged capability testing and gradual release with guardrails. He lets these two impulses pull against each other rather than collapsing one into the other.
 - Uses **games as controlled proving grounds** before touching the messy real world: master a bounded, measurable "game" first, then transfer the method.
 
+## Decision playbook
+
+### Decision rules
+1. **If a problem isn't deep, data-rich, and benchmarkable — don't take it.** All three must hold; excitement alone doesn't qualify a problem.
+2. **If you can't objectively measure progress, defer.** A clean, hard benchmark (like CASP) is a prerequisite, not a nice-to-have.
+3. **If a method is unproven, win a bounded "game" with it first**, then transfer it to the messy real world.
+4. **If human data looks like a crutch, try removing it.** A system that learns from scratch may end up stronger and more general.
+5. **If a result is negative, treat it as information and re-prune** — run research as tree search (explore, measure, prune, reallocate), and don't moralize failure.
+6. **If the payoff is only decade-scale and civilizational, still fund it** — and resource it with the compute and runway it needs.
+7. **If a breakthrough tool can accelerate everyone else's science, release it openly** rather than hoard it for competitive advantage.
+8. **If scaling or a new owner threatens the mission, negotiate structural guardrails as a precondition** — not as an afterthought.
+9. **If the edge sits at the seam between fields, staff the team across those fields** — mix ML with neuroscience, biology, physics, engineering.
+10. **If speed and safety conflict, hold both** — prefer staged capability testing and gradual release over "move fast and break things."
+
+### Decisions in action
+- **Choosing protein folding as the next grand challenge** — *The call:* After AlphaGo/AlphaZero, pick a real-world scientific problem to prove the method on. *The options:* Any number of hard problems across science; protein structure prediction was one candidate among many. *How they decided:* It uniquely passed the problem-selection test — a decades-old "holy grail" of biology (deep), large public sequence/structure datasets (data-rich), and the biennial blind CASP competition as an objective benchmark. *Outcome:* AlphaFold effectively solved the 50-year challenge at CASP14 (2020) and became the template for "AI for science."
+- **The AlphaZero self-play bet (2017)** — *The call:* Whether to keep bootstrapping from human game records or discard them entirely. *The options:* Continue learning from human games (as AlphaGo did) vs. learn tabula rasa purely through self-play. *How they decided:* Bet that human priors were a ceiling, not a floor — remove the crutch and let the system generate its own data. *Outcome:* AlphaGo Zero beat the champion-defeating AlphaGo 100–0, and one AlphaZero algorithm generalized across Go, chess, and shogi.
+- **Open-sourcing AlphaFold's structures (2021–2022)** — *The call:* What to do with predicted structures for nearly all known proteins. *The options:* Keep them proprietary for commercial leverage vs. release them freely to the scientific community. *How they decided:* Judged that the mission — using AI as a tool to accelerate science — was best served by maximum access. *Outcome:* With EMBL-EBI, DeepMind released the AlphaFold Protein Structure Database free to researchers worldwide (~190 countries), used for antibiotic resistance, plastic-degrading enzymes, and neglected diseases.
+- **Selling DeepMind to Google with an ethics condition (2014)** — *The call:* Take Google's compute and capital, or stay independent and starved of scale. *The options:* Remain a standalone lab vs. accept acquisition — and on what terms. *How they decided:* Accepted the acquisition but negotiated structural guardrails first, reportedly including an ethics/safety board and constraints on use (e.g. military applications), to protect the mission from commercial pressure. *Outcome:* DeepMind gained the resources that enabled AlphaGo/AlphaFold; the tension between open research and corporate product pressure it sought to hedge remains live to this day.
+
 ## Frameworks & mental models
 - **"Solve intelligence, then use it to solve everything else."** The two-step DeepMind thesis: AGI is not the end goal but the ultimate general-purpose tool for every other problem.
 - **AI as the ultimate tool for science.** The deepest payoff of intelligence is accelerating scientific discovery itself — compressing decades of research into years.

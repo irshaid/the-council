@@ -27,6 +27,25 @@ Laurence "Larry" Fink (b. 1952) rose as one of Wall Street's first mortgage-back
 - **Capital allocation at scale.** Decisions are made with the awareness that BlackRock's moves are large enough to move markets and shape corporate behavior — so process, optics, and systemic effect all matter.
 - **Reading macro / structural shifts.** He tries to position ahead of secular tides — the rise of MBS, the active-to-passive migration, retirement/demographic shifts, energy transition — rather than trading cycles.
 
+## Decision playbook
+
+### Decision rules
+1. **If you can't decompose and price the downside, don't hold the position** — the 1986 loss came from modeling the upside but not the downside of interest-rate bets.
+2. **If a capability is your edge, build it in software so it outlives any individual** — turn expertise into a system (Aladdin), not a star trader's instinct.
+3. **If fees in a market are compressing toward zero, compete on scale and cost, not on cleverness** — own the cheapest, broadest distribution and let volume win.
+4. **If a shift is structural rather than cyclical, position ahead of it** — MBS, active-to-passive, demographics — and don't mistake it for noise to trade around.
+5. **If a decision is reversible and lets you buy a durable franchise, act big and fast** — the BGI deal was a bet-the-firm move made in months.
+6. **If you're judging a company you own, weigh the 10-year horizon over the next quarter** — attack "quarterly capitalism" in your own decisions too.
+7. **If regulators or clients need a neutral, trusted hand, take the unglamorous job** — reliability with resource-holders is itself a compounding asset (2008 crisis work).
+8. **If you can't easily sell a holding, your only lever is engagement — so use ownership as voice** — index permanence forces stewardship, not exit.
+9. **If a position outruns your stakeholders' tolerance, retreat on the framing before it damages the franchise** — the pragmatic (and criticized) reflex behind the ESG-language reversal.
+
+### Decisions in action
+- **Founding BlackRock inside Blackstone (1988)** — *The call:* whether to start over after the First Boston blowup, and on what premise. *The options:* re-enter trading and rebuild a reputation, or build a new kind of firm. *How they decided:* he generalized the wound — a firm whose founding product was risk measurement, not a bet — and took a $5M credit line from Schwarzman's Blackstone for roughly a 50% stake, bringing quant co-founders who coded Aladdin on a $20,000 workstation. *Outcome:* the risk-first premise became the identity; the firm spun out, was renamed BlackRock, and grew into the world's largest asset manager.
+- **Building and productizing Aladdin** — *The call:* treat risk analytics as internal plumbing, or as a moat and a product. *The options:* keep the edge proprietary, or sell it to competitors and institutions. *How they decided:* he bet that data/analytics infrastructure scales better and lasts longer than star talent, and made it both the firm's nervous system and a recurring-revenue business. *Outcome:* a platform now used to manage and analyze trillions across BlackRock and outside institutions — a structural, high-margin moat.
+- **Acquiring BGI / iShares (2009)** — *The call:* whether to pay ~$13.5B (announced June 2009, closed December 2009; ~$6.6B cash plus ~$6.9B in stock) to buy Barclays Global Investors and its iShares ETF franchise. *The options:* stay an active + risk-analytics house, or fuse that with passive/index scale at the moment ETFs were about to explode. *How they decided:* he read active-to-passive as a secular tide and moved decisively while Barclays was a distressed seller needing capital. *Outcome:* instant global ETF leadership and the single most important strategic move in BlackRock's history — but also the scale that later fed "too big / too powerful" criticism.
+- **The purpose/climate letters and the ESG retreat (2018–2025)** — *The call:* how hard to push "purpose," stakeholder capitalism, and climate through the annual CEO letters — and whether to hold the line when it turned toxic. *The options:* double down on the framing, or retreat on the language under political and financial pressure (Republican-led states pulled billions). *How they decided:* he advanced the thesis aggressively ("Climate risk is investment risk," 2020), then by 2023 said he was "ashamed" to be part of the politicized debate and dropped the "ESG" label he said had been "weaponized." *Outcome:* enormous influence and enormous backlash — a case study in both the reach of a titan steering corporate norms and the cost of getting ahead of your stakeholders (see Weaknesses). *[Aspen 2023 wording per news reports, not a verified transcript.]*
+
 ## Frameworks & mental models
 - **Risk management as the core discipline.** The 1986 lesson generalized: model the downside as carefully as the upside; the risk you don't price is the one that kills you.
 - **Technology / data as competitive moat.** Aladdin — proprietary analytics as a durable, scalable edge that outlasts any individual.

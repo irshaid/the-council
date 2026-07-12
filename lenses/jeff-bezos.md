@@ -27,6 +27,29 @@ Bezos took a single insight — that on the internet you could serve customers a
 - **Being "right a lot."** In Amazon's Leadership Principles, great leaders are "right a lot" — but Bezos frames this as being willing to seek out disconfirming views and to change your mind. Strong opinions, loosely held.
 - **Handling being wrong.** He treats failure as the cost of invention: to get outsized wins you must run experiments that mostly fail, and the size of the successes has to dwarf the losses. He publicly owns misses (see the Fire Phone) rather than hiding them.
 
+## Decision playbook
+
+### Decision rules
+1. **If the door is one-way (irreversible), then slow down** — high conviction, senior scrutiny, no rush; if it's two-way (reversible), push it down and decide fast.
+2. **If you have ~70% of the information you wish you had, then decide** — waiting for 90% is being slow; bias to action plus fast course-correction beats late precision.
+3. **If you're framing a life-or-career fork, then minimize regret, not probability of success** — project to age 80 and ask which choice you'd regret; the regret is knowable even when the odds aren't.
+4. **If the spreadsheet says the customer-loved thing looks unaffordable, then trust instinct over the model** — big bets need judgment and risk-taking, not just numbers (Prime).
+5. **If you're weighing a move, then start from the customer and work backwards** — write the press release and FAQ first; if it isn't compelling on paper, rework or kill it before spending.
+6. **If a rival could disrupt your core business, then disrupt it yourself first** — cannibalize your own franchise rather than let someone else do it (Kindle).
+7. **If you disagree but lack the decision right, then disagree and commit** — argue hard once, then back the call fully; don't slow the team by re-litigating.
+8. **If a bet failed, then judge the portfolio, not the single loss** — invention requires experiments that mostly fail; size bets so one win dwarfs many misses.
+9. **If a decision is low-stakes and reversible, then don't escalate it** — applying heavyweight process to two-way doors is the "Day 2" slowness trap.
+10. **If the horizon is short, then lengthen it** — decide on a 5–7 year view where fewer competitors are willing to play.
+
+### Decisions in action
+**Quitting D.E. Shaw for Amazon (1994)** — *The call:* leave a secure, high-paying senior job to sell books online. *The options:* stay safe on Wall Street, or gamble on a wide-open internet. *How they decided:* the regret-minimization framework — he pictured himself at 80 and knew he wouldn't regret trying and failing, but would regret never trying; the probability of success was unknowable, but the regret calculation was tractable. *Outcome:* founded Amazon; the framework became his signature heuristic.
+
+**Launching Prime at $79 flat-rate (2005)** — *The call:* offer unlimited two-day shipping for a flat annual fee. *The options:* the finance team modeled shipping cost times order frequency and the numbers were, in Bezos's own words, "horrifying" — the fear was Prime could bankrupt Amazon. *How they decided:* Bezos overrode the model, arguing good decisions require instinct and risk-taking, not just spreadsheets; he set $79 as a price big enough to matter yet small enough to try, and the team disagreed-and-committed. *Outcome:* Prime became Amazon's loyalty flywheel, driving higher spend and frequency and anchoring the whole ecosystem.
+
+**Building AWS as a product (launched 2006)** — *The call:* turn internal infrastructure competence into a computing service sold to outside developers. *The options:* keep infrastructure as a cost center, or productize it into a new business far from retail. *How they decided:* working-backwards from developers' needs plus long-term, invest-ahead-of-proof conviction — notably *not* merely reselling spare capacity (Amazon's own CTO calls the "excess capacity" origin a myth); it was a deliberate bet on a new primitive. *Outcome:* AWS became Amazon's profit engine and defined the cloud market, long underestimated as a retailer's side project.
+
+**The Fire Phone and owning failure (2014–2015)** — *The call:* what to do after Amazon's smartphone flopped, was cut from $199 toward $0.99, and drove a ~$170M inventory write-down. *The options:* bury the miss quietly, or absorb it publicly and keep investing in invention. *How they decided:* the failure-as-price-of-invention portfolio logic — Bezos refused to treat it as shameful, said Amazon was already working on "much bigger failures," and framed the loss as the unavoidable cost of the same experimentation that produced Kindle and AWS. *Outcome:* the phone was discontinued in 2015, but the episode became his defining public lesson on normalizing failure; teams and talent were redeployed (e.g., toward devices like Echo).
+
 ## Frameworks & mental models
 - **Day 1 vs. Day 2.** The central metaphor. "Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1." Day 1 companies keep customer obsession, resist proxies (process becoming the point), embrace external trends, and make high-velocity decisions.
 - **The flywheel (virtuous cycle).** Lower prices → more customer visits → more sellers and selection → better customer experience → more traffic → economies of scale → still lower prices. A push on any part of the loop accelerates the whole thing, and growth is fed back into the loop rather than extracted.
