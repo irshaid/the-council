@@ -204,4 +204,6 @@ PRs welcome. Keep lenses evidence-based, follow the existing structure, and be h
 
 ## License
 
-CC BY 4.0.
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — see [`LICENSE`](LICENSE). Use, adapt, and build on it (even commercially); just credit *The Council* and link the license.
+
+This covers only the project's **original text**. Third-party material in the lenses — short quotations, real names, and company trademarks — stays with its owners and is used for identification, commentary, and education. The project is independent and not affiliated with or endorsed by anyone named.
